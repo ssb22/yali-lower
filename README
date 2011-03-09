@@ -1,0 +1,10 @@
+yali-lower.exe is a zip file that must be
+compatible with unzip on non-Windows platforms
+as well as being self-extracting.
+
+unzipsfx.exe is a Win32 build of unzipsfx
+(cross-compiled with Mingw32) with
+CHEAP_SFX_AUTORUN defined, and hacked process.c
+so it doesn't confirm the Auto-run command.
+
+Use 'make' to makke a new yali-lower.exe from the WAVs.
