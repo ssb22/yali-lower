@@ -25,5 +25,5 @@ so it doesn't confirm the Auto-run command.
 
 Use 'make' to make a new yali-lower.exe from the WAVs.
 
-Gradint is at http://people.ds.cam.ac.uk/ssb22/gradint
-and is also mirrored at http://ssb22.gitlab.io/gradint as the Cambridge "DS-Web" server sometimes gets taken down for several days of maintenance.
+Gradint is at http://ssb22.user.srcf.net/gradint
+and is also mirrored at http://ssb22.gitlab.io/gradint just in case.
