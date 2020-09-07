@@ -2,7 +2,7 @@ These syllables were recorded in context by
 Cheng Ya Li for the Gradint program in June
 2008.  Sound editing was done by Cameron Wong
 (developer of the Ekho speech synthesizer) and
-Silas Brown, using Audacity and Praat.
+Silas S. Brown, using Audacity and Praat.
 
 You can redistribute and/or modify these recordings under the terms of
 the GNU General Public License as published by the Free Software

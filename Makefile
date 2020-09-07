@@ -1,4 +1,7 @@
-RawParams=-r 44100 -c 1 -s -2
+# for older versions of sox:
+# RawParams=-r 44100 -c 1 -s -2
+# for newer versions:
+RawParams=-r 44100 -c 1 -e signed -b 16
 
 yali-lower.exe: wav-syllables setup.bat yali-exe-readme.txt unzipsfx.exe
 	mkdir -p partials/zh/yali-low

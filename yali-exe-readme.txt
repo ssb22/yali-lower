@@ -2,7 +2,7 @@ These syllables were recorded in context by
 Cheng Ya Li for the Gradint program in June
 2008.  Sound editing was done by Cameron Wong
 (developer of the Ekho speech synthesizer) and
-Silas Brown, using Audacity and Praat.
+Silas S. Brown, using Audacity and Praat.
 
 (The yali-low version has been voice-changed to reduce the pitch.)
 
@@ -16,7 +16,7 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 General Public License for more details.
 
-If you are running on Linux on a solid-state device (OLPC XO, NSLU2, etc),
+If you are running GNU/Linux on a solid-state device (OLPC XO, NSLU2, etc),
 you probably don't want Gradint to have to concatenate these files to make a
 custom WAV for each phrase.  Linux is usually good enough for Gradint not to
 have to do this, in which case you can convert them back to WAV by doing:
