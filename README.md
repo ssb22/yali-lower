@@ -14,7 +14,7 @@ as well as being self-extracting.
 `process.c` so it doesn't confirm the Auto-run
 command.
 
-Use `make` to make a new yali-lower.exe from the WAVs.
+Use `make` to make a new `yali-lower.exe` from the WAVs.
 
 Gradint is at http://ssb22.user.srcf.net/gradint
 and is also mirrored at http://ssb22.gitlab.io/gradint just in case.
