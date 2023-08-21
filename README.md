@@ -1,8 +1,9 @@
 These syllables were recorded in context by
-Cheng Ya Li for the Gradint program in June
-2008.  Sound editing was done by Cameron Wong
-(developer of the Ekho speech synthesizer) and
-Silas S. Brown, using Audacity and Praat.
+Cheng Ya Li for the [Gradint](../gradint) program
+in June 2008.  Sound editing was done by Cameron Wong
+(developer of the [Ekho](https://github.com/hgneng/ekho)
+speech synthesizer) and Silas S. Brown, using
+Audacity and Praat.
 
 `yali-lower.exe` is a zip file that must be
 compatible with unzip on non-Windows platforms
