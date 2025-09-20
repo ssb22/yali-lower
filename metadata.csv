@@ -1,0 +1,2478 @@
+filename,syllable,tone,tone_description,pitch_adjusted
+wav-syllables/a1.wav,a,1,high level,true
+wav-syllables/a2.wav,a,2,rising,true
+wav-syllables/a3.wav,a,3,low dipping (half),true
+wav-syllables/a4.wav,a,4,falling,true
+wav-syllables/a5.wav,a,5,neutral,true
+wav-syllables/a6.wav,a,6,neutral (high),true
+wav-syllables/ai1.wav,ai,1,high level,true
+wav-syllables/ai2.wav,ai,2,rising,true
+wav-syllables/ai3.wav,ai,3,low dipping (half),true
+wav-syllables/ai4.wav,ai,4,falling,true
+wav-syllables/ai5.wav,ai,5,neutral,true
+wav-syllables/ai6.wav,ai,6,neutral (high),true
+wav-syllables/an1.wav,an,1,high level,true
+wav-syllables/an2.wav,an,2,rising,true
+wav-syllables/an3.wav,an,3,low dipping (half),true
+wav-syllables/an4.wav,an,4,falling,true
+wav-syllables/an5.wav,an,5,neutral,true
+wav-syllables/an6.wav,an,6,neutral (high),true
+wav-syllables/ang1.wav,ang,1,high level,true
+wav-syllables/ang2.wav,ang,2,rising,true
+wav-syllables/ang3.wav,ang,3,low dipping (half),true
+wav-syllables/ang4.wav,ang,4,falling,true
+wav-syllables/ang5.wav,ang,5,neutral,true
+wav-syllables/ang6.wav,ang,6,neutral (high),true
+wav-syllables/ao1.wav,ao,1,high level,true
+wav-syllables/ao2.wav,ao,2,rising,true
+wav-syllables/ao3.wav,ao,3,low dipping (half),true
+wav-syllables/ao4.wav,ao,4,falling,true
+wav-syllables/ao5.wav,ao,5,neutral,true
+wav-syllables/ao6.wav,ao,6,neutral (high),true
+wav-syllables/ba1.wav,ba,1,high level,true
+wav-syllables/ba2.wav,ba,2,rising,true
+wav-syllables/ba3.wav,ba,3,low dipping (half),true
+wav-syllables/ba4.wav,ba,4,falling,true
+wav-syllables/ba5.wav,ba,5,neutral,true
+wav-syllables/ba6.wav,ba,6,neutral (high),true
+wav-syllables/bai1.wav,bai,1,high level,true
+wav-syllables/bai2.wav,bai,2,rising,true
+wav-syllables/bai3.wav,bai,3,low dipping (half),true
+wav-syllables/bai4.wav,bai,4,falling,true
+wav-syllables/bai5.wav,bai,5,neutral,true
+wav-syllables/bai6.wav,bai,6,neutral (high),true
+wav-syllables/ban1.wav,ban,1,high level,true
+wav-syllables/ban2.wav,ban,2,rising,true
+wav-syllables/ban3.wav,ban,3,low dipping (half),true
+wav-syllables/ban4.wav,ban,4,falling,true
+wav-syllables/ban5.wav,ban,5,neutral,true
+wav-syllables/ban6.wav,ban,6,neutral (high),true
+wav-syllables/bang1.wav,bang,1,high level,true
+wav-syllables/bang2.wav,bang,2,rising,true
+wav-syllables/bang3.wav,bang,3,low dipping (half),true
+wav-syllables/bang4.wav,bang,4,falling,true
+wav-syllables/bang5.wav,bang,5,neutral,true
+wav-syllables/bang6.wav,bang,6,neutral (high),true
+wav-syllables/bao1.wav,bao,1,high level,true
+wav-syllables/bao2.wav,bao,2,rising,true
+wav-syllables/bao3.wav,bao,3,low dipping (half),true
+wav-syllables/bao4.wav,bao,4,falling,true
+wav-syllables/bao5.wav,bao,5,neutral,true
+wav-syllables/bao6.wav,bao,6,neutral (high),true
+wav-syllables/bei1.wav,bei,1,high level,true
+wav-syllables/bei2.wav,bei,2,rising,true
+wav-syllables/bei3.wav,bei,3,low dipping (half),true
+wav-syllables/bei4.wav,bei,4,falling,true
+wav-syllables/bei5.wav,bei,5,neutral,true
+wav-syllables/bei6.wav,bei,6,neutral (high),true
+wav-syllables/ben1.wav,ben,1,high level,true
+wav-syllables/ben2.wav,ben,2,rising,true
+wav-syllables/ben3.wav,ben,3,low dipping (half),true
+wav-syllables/ben4.wav,ben,4,falling,true
+wav-syllables/ben5.wav,ben,5,neutral,true
+wav-syllables/ben6.wav,ben,6,neutral (high),true
+wav-syllables/beng1.wav,beng,1,high level,true
+wav-syllables/beng2.wav,beng,2,rising,true
+wav-syllables/beng3.wav,beng,3,low dipping (half),true
+wav-syllables/beng4.wav,beng,4,falling,true
+wav-syllables/beng5.wav,beng,5,neutral,true
+wav-syllables/beng6.wav,beng,6,neutral (high),true
+wav-syllables/bi1.wav,bi,1,high level,true
+wav-syllables/bi2.wav,bi,2,rising,true
+wav-syllables/bi3.wav,bi,3,low dipping (half),true
+wav-syllables/bi4.wav,bi,4,falling,true
+wav-syllables/bi5.wav,bi,5,neutral,true
+wav-syllables/bi6.wav,bi,6,neutral (high),true
+wav-syllables/bian1.wav,bian,1,high level,true
+wav-syllables/bian2.wav,bian,2,rising,true
+wav-syllables/bian3.wav,bian,3,low dipping (half),true
+wav-syllables/bian4.wav,bian,4,falling,true
+wav-syllables/bian5.wav,bian,5,neutral,true
+wav-syllables/bian6.wav,bian,6,neutral (high),true
+wav-syllables/biao1.wav,biao,1,high level,true
+wav-syllables/biao2.wav,biao,2,rising,true
+wav-syllables/biao3.wav,biao,3,low dipping (half),true
+wav-syllables/biao4.wav,biao,4,falling,true
+wav-syllables/biao5.wav,biao,5,neutral,true
+wav-syllables/biao6.wav,biao,6,neutral (high),true
+wav-syllables/bie1.wav,bie,1,high level,true
+wav-syllables/bie2.wav,bie,2,rising,true
+wav-syllables/bie3.wav,bie,3,low dipping (half),true
+wav-syllables/bie4.wav,bie,4,falling,true
+wav-syllables/bie5.wav,bie,5,neutral,true
+wav-syllables/bie6.wav,bie,6,neutral (high),true
+wav-syllables/bin1.wav,bin,1,high level,true
+wav-syllables/bin2.wav,bin,2,rising,true
+wav-syllables/bin3.wav,bin,3,low dipping (half),true
+wav-syllables/bin4.wav,bin,4,falling,true
+wav-syllables/bin5.wav,bin,5,neutral,true
+wav-syllables/bin6.wav,bin,6,neutral (high),true
+wav-syllables/bing1.wav,bing,1,high level,true
+wav-syllables/bing2.wav,bing,2,rising,true
+wav-syllables/bing3.wav,bing,3,low dipping (half),true
+wav-syllables/bing4.wav,bing,4,falling,true
+wav-syllables/bing5.wav,bing,5,neutral,true
+wav-syllables/bing6.wav,bing,6,neutral (high),true
+wav-syllables/bo1.wav,bo,1,high level,true
+wav-syllables/bo2.wav,bo,2,rising,true
+wav-syllables/bo3.wav,bo,3,low dipping (half),true
+wav-syllables/bo4.wav,bo,4,falling,true
+wav-syllables/bo5.wav,bo,5,neutral,true
+wav-syllables/bo6.wav,bo,6,neutral (high),true
+wav-syllables/bu1.wav,bu,1,high level,true
+wav-syllables/bu2.wav,bu,2,rising,true
+wav-syllables/bu3.wav,bu,3,low dipping (half),true
+wav-syllables/bu4.wav,bu,4,falling,true
+wav-syllables/bu5.wav,bu,5,neutral,true
+wav-syllables/bu6.wav,bu,6,neutral (high),true
+wav-syllables/ca1.wav,ca,1,high level,true
+wav-syllables/ca2.wav,ca,2,rising,true
+wav-syllables/ca3.wav,ca,3,low dipping (half),true
+wav-syllables/ca4.wav,ca,4,falling,true
+wav-syllables/ca5.wav,ca,5,neutral,true
+wav-syllables/ca6.wav,ca,6,neutral (high),true
+wav-syllables/cai1.wav,cai,1,high level,true
+wav-syllables/cai2.wav,cai,2,rising,true
+wav-syllables/cai3.wav,cai,3,low dipping (half),true
+wav-syllables/cai4.wav,cai,4,falling,true
+wav-syllables/cai5.wav,cai,5,neutral,true
+wav-syllables/cai6.wav,cai,6,neutral (high),true
+wav-syllables/can1.wav,can,1,high level,true
+wav-syllables/can2.wav,can,2,rising,true
+wav-syllables/can3.wav,can,3,low dipping (half),true
+wav-syllables/can4.wav,can,4,falling,true
+wav-syllables/can5.wav,can,5,neutral,true
+wav-syllables/can6.wav,can,6,neutral (high),true
+wav-syllables/cang1.wav,cang,1,high level,true
+wav-syllables/cang2.wav,cang,2,rising,true
+wav-syllables/cang3.wav,cang,3,low dipping (half),true
+wav-syllables/cang4.wav,cang,4,falling,true
+wav-syllables/cang5.wav,cang,5,neutral,true
+wav-syllables/cang6.wav,cang,6,neutral (high),true
+wav-syllables/cao1.wav,cao,1,high level,true
+wav-syllables/cao2.wav,cao,2,rising,true
+wav-syllables/cao3.wav,cao,3,low dipping (half),true
+wav-syllables/cao4.wav,cao,4,falling,true
+wav-syllables/cao5.wav,cao,5,neutral,true
+wav-syllables/cao6.wav,cao,6,neutral (high),true
+wav-syllables/ce1.wav,ce,1,high level,true
+wav-syllables/ce2.wav,ce,2,rising,true
+wav-syllables/ce3.wav,ce,3,low dipping (half),true
+wav-syllables/ce4.wav,ce,4,falling,true
+wav-syllables/ce5.wav,ce,5,neutral,true
+wav-syllables/ce6.wav,ce,6,neutral (high),true
+wav-syllables/cen1.wav,cen,1,high level,true
+wav-syllables/cen2.wav,cen,2,rising,true
+wav-syllables/cen3.wav,cen,3,low dipping (half),true
+wav-syllables/cen4.wav,cen,4,falling,true
+wav-syllables/cen5.wav,cen,5,neutral,true
+wav-syllables/cen6.wav,cen,6,neutral (high),true
+wav-syllables/ceng1.wav,ceng,1,high level,true
+wav-syllables/ceng2.wav,ceng,2,rising,true
+wav-syllables/ceng3.wav,ceng,3,low dipping (half),true
+wav-syllables/ceng4.wav,ceng,4,falling,true
+wav-syllables/ceng5.wav,ceng,5,neutral,true
+wav-syllables/ceng6.wav,ceng,6,neutral (high),true
+wav-syllables/cha1.wav,cha,1,high level,true
+wav-syllables/cha2.wav,cha,2,rising,true
+wav-syllables/cha3.wav,cha,3,low dipping (half),true
+wav-syllables/cha4.wav,cha,4,falling,true
+wav-syllables/cha5.wav,cha,5,neutral,true
+wav-syllables/cha6.wav,cha,6,neutral (high),true
+wav-syllables/chai1.wav,chai,1,high level,true
+wav-syllables/chai2.wav,chai,2,rising,true
+wav-syllables/chai3.wav,chai,3,low dipping (half),true
+wav-syllables/chai4.wav,chai,4,falling,true
+wav-syllables/chai5.wav,chai,5,neutral,true
+wav-syllables/chai6.wav,chai,6,neutral (high),true
+wav-syllables/chan1.wav,chan,1,high level,true
+wav-syllables/chan2.wav,chan,2,rising,true
+wav-syllables/chan3.wav,chan,3,low dipping (half),true
+wav-syllables/chan4.wav,chan,4,falling,true
+wav-syllables/chan5.wav,chan,5,neutral,true
+wav-syllables/chan6.wav,chan,6,neutral (high),true
+wav-syllables/chang1.wav,chang,1,high level,true
+wav-syllables/chang2.wav,chang,2,rising,true
+wav-syllables/chang3.wav,chang,3,low dipping (half),true
+wav-syllables/chang4.wav,chang,4,falling,true
+wav-syllables/chang5.wav,chang,5,neutral,true
+wav-syllables/chang6.wav,chang,6,neutral (high),true
+wav-syllables/chao1.wav,chao,1,high level,true
+wav-syllables/chao2.wav,chao,2,rising,true
+wav-syllables/chao3.wav,chao,3,low dipping (half),true
+wav-syllables/chao4.wav,chao,4,falling,true
+wav-syllables/chao5.wav,chao,5,neutral,true
+wav-syllables/chao6.wav,chao,6,neutral (high),true
+wav-syllables/che1.wav,che,1,high level,true
+wav-syllables/che2.wav,che,2,rising,true
+wav-syllables/che3.wav,che,3,low dipping (half),true
+wav-syllables/che4.wav,che,4,falling,true
+wav-syllables/che5.wav,che,5,neutral,true
+wav-syllables/che6.wav,che,6,neutral (high),true
+wav-syllables/chen1.wav,chen,1,high level,true
+wav-syllables/chen2.wav,chen,2,rising,true
+wav-syllables/chen3.wav,chen,3,low dipping (half),true
+wav-syllables/chen4.wav,chen,4,falling,true
+wav-syllables/chen5.wav,chen,5,neutral,true
+wav-syllables/chen6.wav,chen,6,neutral (high),true
+wav-syllables/cheng1.wav,cheng,1,high level,true
+wav-syllables/cheng2.wav,cheng,2,rising,true
+wav-syllables/cheng3.wav,cheng,3,low dipping (half),true
+wav-syllables/cheng4.wav,cheng,4,falling,true
+wav-syllables/cheng5.wav,cheng,5,neutral,true
+wav-syllables/cheng6.wav,cheng,6,neutral (high),true
+wav-syllables/chi1.wav,chi,1,high level,true
+wav-syllables/chi2.wav,chi,2,rising,true
+wav-syllables/chi3.wav,chi,3,low dipping (half),true
+wav-syllables/chi4.wav,chi,4,falling,true
+wav-syllables/chi5.wav,chi,5,neutral,true
+wav-syllables/chi6.wav,chi,6,neutral (high),true
+wav-syllables/chong1.wav,chong,1,high level,true
+wav-syllables/chong2.wav,chong,2,rising,true
+wav-syllables/chong3.wav,chong,3,low dipping (half),true
+wav-syllables/chong4.wav,chong,4,falling,true
+wav-syllables/chong5.wav,chong,5,neutral,true
+wav-syllables/chong6.wav,chong,6,neutral (high),true
+wav-syllables/chou1.wav,chou,1,high level,true
+wav-syllables/chou2.wav,chou,2,rising,true
+wav-syllables/chou3.wav,chou,3,low dipping (half),true
+wav-syllables/chou4.wav,chou,4,falling,true
+wav-syllables/chou5.wav,chou,5,neutral,true
+wav-syllables/chou6.wav,chou,6,neutral (high),true
+wav-syllables/chu1.wav,chu,1,high level,true
+wav-syllables/chu2.wav,chu,2,rising,true
+wav-syllables/chu3.wav,chu,3,low dipping (half),true
+wav-syllables/chu4.wav,chu,4,falling,true
+wav-syllables/chu5.wav,chu,5,neutral,true
+wav-syllables/chu6.wav,chu,6,neutral (high),true
+wav-syllables/chua1.wav,chua,1,high level,true
+wav-syllables/chua2.wav,chua,2,rising,true
+wav-syllables/chua3.wav,chua,3,low dipping (half),true
+wav-syllables/chua4.wav,chua,4,falling,true
+wav-syllables/chua5.wav,chua,5,neutral,true
+wav-syllables/chua6.wav,chua,6,neutral (high),true
+wav-syllables/chuai1.wav,chuai,1,high level,true
+wav-syllables/chuai2.wav,chuai,2,rising,true
+wav-syllables/chuai3.wav,chuai,3,low dipping (half),true
+wav-syllables/chuai4.wav,chuai,4,falling,true
+wav-syllables/chuai5.wav,chuai,5,neutral,true
+wav-syllables/chuai6.wav,chuai,6,neutral (high),true
+wav-syllables/chuan1.wav,chuan,1,high level,true
+wav-syllables/chuan2.wav,chuan,2,rising,true
+wav-syllables/chuan3.wav,chuan,3,low dipping (half),true
+wav-syllables/chuan4.wav,chuan,4,falling,true
+wav-syllables/chuan5.wav,chuan,5,neutral,true
+wav-syllables/chuan6.wav,chuan,6,neutral (high),true
+wav-syllables/chuang1.wav,chuang,1,high level,true
+wav-syllables/chuang2.wav,chuang,2,rising,true
+wav-syllables/chuang3.wav,chuang,3,low dipping (half),true
+wav-syllables/chuang4.wav,chuang,4,falling,true
+wav-syllables/chuang5.wav,chuang,5,neutral,true
+wav-syllables/chuang6.wav,chuang,6,neutral (high),true
+wav-syllables/chui1.wav,chui,1,high level,true
+wav-syllables/chui2.wav,chui,2,rising,true
+wav-syllables/chui3.wav,chui,3,low dipping (half),true
+wav-syllables/chui4.wav,chui,4,falling,true
+wav-syllables/chui5.wav,chui,5,neutral,true
+wav-syllables/chui6.wav,chui,6,neutral (high),true
+wav-syllables/chun1.wav,chun,1,high level,true
+wav-syllables/chun2.wav,chun,2,rising,true
+wav-syllables/chun3.wav,chun,3,low dipping (half),true
+wav-syllables/chun4.wav,chun,4,falling,true
+wav-syllables/chun5.wav,chun,5,neutral,true
+wav-syllables/chun6.wav,chun,6,neutral (high),true
+wav-syllables/chuo1.wav,chuo,1,high level,true
+wav-syllables/chuo2.wav,chuo,2,rising,true
+wav-syllables/chuo3.wav,chuo,3,low dipping (half),true
+wav-syllables/chuo4.wav,chuo,4,falling,true
+wav-syllables/chuo5.wav,chuo,5,neutral,true
+wav-syllables/chuo6.wav,chuo,6,neutral (high),true
+wav-syllables/ci1.wav,ci,1,high level,true
+wav-syllables/ci2.wav,ci,2,rising,true
+wav-syllables/ci3.wav,ci,3,low dipping (half),true
+wav-syllables/ci4.wav,ci,4,falling,true
+wav-syllables/ci5.wav,ci,5,neutral,true
+wav-syllables/ci6.wav,ci,6,neutral (high),true
+wav-syllables/cong1.wav,cong,1,high level,true
+wav-syllables/cong2.wav,cong,2,rising,true
+wav-syllables/cong3.wav,cong,3,low dipping (half),true
+wav-syllables/cong4.wav,cong,4,falling,true
+wav-syllables/cong5.wav,cong,5,neutral,true
+wav-syllables/cong6.wav,cong,6,neutral (high),true
+wav-syllables/cou1.wav,cou,1,high level,true
+wav-syllables/cou2.wav,cou,2,rising,true
+wav-syllables/cou3.wav,cou,3,low dipping (half),true
+wav-syllables/cou4.wav,cou,4,falling,true
+wav-syllables/cou5.wav,cou,5,neutral,true
+wav-syllables/cou6.wav,cou,6,neutral (high),true
+wav-syllables/cu1.wav,cu,1,high level,true
+wav-syllables/cu2.wav,cu,2,rising,true
+wav-syllables/cu3.wav,cu,3,low dipping (half),true
+wav-syllables/cu4.wav,cu,4,falling,true
+wav-syllables/cu5.wav,cu,5,neutral,true
+wav-syllables/cu6.wav,cu,6,neutral (high),true
+wav-syllables/cuan1.wav,cuan,1,high level,true
+wav-syllables/cuan2.wav,cuan,2,rising,true
+wav-syllables/cuan3.wav,cuan,3,low dipping (half),true
+wav-syllables/cuan4.wav,cuan,4,falling,true
+wav-syllables/cuan5.wav,cuan,5,neutral,true
+wav-syllables/cuan6.wav,cuan,6,neutral (high),true
+wav-syllables/cui1.wav,cui,1,high level,true
+wav-syllables/cui2.wav,cui,2,rising,true
+wav-syllables/cui3.wav,cui,3,low dipping (half),true
+wav-syllables/cui4.wav,cui,4,falling,true
+wav-syllables/cui5.wav,cui,5,neutral,true
+wav-syllables/cui6.wav,cui,6,neutral (high),true
+wav-syllables/cun1.wav,cun,1,high level,true
+wav-syllables/cun2.wav,cun,2,rising,true
+wav-syllables/cun3.wav,cun,3,low dipping (half),true
+wav-syllables/cun4.wav,cun,4,falling,true
+wav-syllables/cun5.wav,cun,5,neutral,true
+wav-syllables/cun6.wav,cun,6,neutral (high),true
+wav-syllables/cuo1.wav,cuo,1,high level,true
+wav-syllables/cuo2.wav,cuo,2,rising,true
+wav-syllables/cuo3.wav,cuo,3,low dipping (half),true
+wav-syllables/cuo4.wav,cuo,4,falling,true
+wav-syllables/cuo5.wav,cuo,5,neutral,true
+wav-syllables/cuo6.wav,cuo,6,neutral (high),true
+wav-syllables/da1.wav,da,1,high level,true
+wav-syllables/da2.wav,da,2,rising,true
+wav-syllables/da3.wav,da,3,low dipping (half),true
+wav-syllables/da4.wav,da,4,falling,true
+wav-syllables/da5.wav,da,5,neutral,true
+wav-syllables/da6.wav,da,6,neutral (high),true
+wav-syllables/dai1.wav,dai,1,high level,true
+wav-syllables/dai2.wav,dai,2,rising,true
+wav-syllables/dai3.wav,dai,3,low dipping (half),true
+wav-syllables/dai4.wav,dai,4,falling,true
+wav-syllables/dai5.wav,dai,5,neutral,true
+wav-syllables/dai6.wav,dai,6,neutral (high),true
+wav-syllables/dan1.wav,dan,1,high level,true
+wav-syllables/dan2.wav,dan,2,rising,true
+wav-syllables/dan3.wav,dan,3,low dipping (half),true
+wav-syllables/dan4.wav,dan,4,falling,true
+wav-syllables/dan5.wav,dan,5,neutral,true
+wav-syllables/dan6.wav,dan,6,neutral (high),true
+wav-syllables/dang1.wav,dang,1,high level,true
+wav-syllables/dang2.wav,dang,2,rising,true
+wav-syllables/dang3.wav,dang,3,low dipping (half),true
+wav-syllables/dang4.wav,dang,4,falling,true
+wav-syllables/dang5.wav,dang,5,neutral,true
+wav-syllables/dang6.wav,dang,6,neutral (high),true
+wav-syllables/dao1.wav,dao,1,high level,true
+wav-syllables/dao2.wav,dao,2,rising,true
+wav-syllables/dao3.wav,dao,3,low dipping (half),true
+wav-syllables/dao4.wav,dao,4,falling,true
+wav-syllables/dao5.wav,dao,5,neutral,true
+wav-syllables/dao6.wav,dao,6,neutral (high),true
+wav-syllables/de1.wav,de,1,high level,true
+wav-syllables/de2.wav,de,2,rising,true
+wav-syllables/de3.wav,de,3,low dipping (half),true
+wav-syllables/de4.wav,de,4,falling,true
+wav-syllables/de5-f.wav,de,5,neutral,true
+wav-syllables/de5.wav,de,5,neutral,true
+wav-syllables/de6-f.wav,de,6,neutral (high),true
+wav-syllables/de6.wav,de,6,neutral (high),true
+wav-syllables/dei1.wav,dei,1,high level,true
+wav-syllables/dei2.wav,dei,2,rising,true
+wav-syllables/dei3.wav,dei,3,low dipping (half),true
+wav-syllables/dei4.wav,dei,4,falling,true
+wav-syllables/dei5.wav,dei,5,neutral,true
+wav-syllables/dei6.wav,dei,6,neutral (high),true
+wav-syllables/den1.wav,den,1,high level,true
+wav-syllables/den2.wav,den,2,rising,true
+wav-syllables/den3.wav,den,3,low dipping (half),true
+wav-syllables/den4.wav,den,4,falling,true
+wav-syllables/den5.wav,den,5,neutral,true
+wav-syllables/den6.wav,den,6,neutral (high),true
+wav-syllables/deng1.wav,deng,1,high level,true
+wav-syllables/deng2.wav,deng,2,rising,true
+wav-syllables/deng3.wav,deng,3,low dipping (half),true
+wav-syllables/deng4.wav,deng,4,falling,true
+wav-syllables/deng5.wav,deng,5,neutral,true
+wav-syllables/deng6.wav,deng,6,neutral (high),true
+wav-syllables/di1.wav,di,1,high level,true
+wav-syllables/di2.wav,di,2,rising,true
+wav-syllables/di3.wav,di,3,low dipping (half),true
+wav-syllables/di4.wav,di,4,falling,true
+wav-syllables/di5.wav,di,5,neutral,true
+wav-syllables/di6.wav,di,6,neutral (high),true
+wav-syllables/dia1.wav,dia,1,high level,true
+wav-syllables/dia2.wav,dia,2,rising,true
+wav-syllables/dia3.wav,dia,3,low dipping (half),true
+wav-syllables/dia4.wav,dia,4,falling,true
+wav-syllables/dia5.wav,dia,5,neutral,true
+wav-syllables/dia6.wav,dia,6,neutral (high),true
+wav-syllables/dian1.wav,dian,1,high level,true
+wav-syllables/dian2.wav,dian,2,rising,true
+wav-syllables/dian3.wav,dian,3,low dipping (half),true
+wav-syllables/dian4.wav,dian,4,falling,true
+wav-syllables/dian5.wav,dian,5,neutral,true
+wav-syllables/dian6.wav,dian,6,neutral (high),true
+wav-syllables/diao1.wav,diao,1,high level,true
+wav-syllables/diao2.wav,diao,2,rising,true
+wav-syllables/diao3.wav,diao,3,low dipping (half),true
+wav-syllables/diao4.wav,diao,4,falling,true
+wav-syllables/diao5.wav,diao,5,neutral,true
+wav-syllables/diao6.wav,diao,6,neutral (high),true
+wav-syllables/die1.wav,die,1,high level,true
+wav-syllables/die2.wav,die,2,rising,true
+wav-syllables/die3.wav,die,3,low dipping (half),true
+wav-syllables/die4.wav,die,4,falling,true
+wav-syllables/die5.wav,die,5,neutral,true
+wav-syllables/die6.wav,die,6,neutral (high),true
+wav-syllables/ding1.wav,ding,1,high level,true
+wav-syllables/ding2.wav,ding,2,rising,true
+wav-syllables/ding3.wav,ding,3,low dipping (half),true
+wav-syllables/ding4.wav,ding,4,falling,true
+wav-syllables/ding5.wav,ding,5,neutral,true
+wav-syllables/ding6.wav,ding,6,neutral (high),true
+wav-syllables/diu1.wav,diu,1,high level,true
+wav-syllables/diu2.wav,diu,2,rising,true
+wav-syllables/diu3.wav,diu,3,low dipping (half),true
+wav-syllables/diu4.wav,diu,4,falling,true
+wav-syllables/diu5.wav,diu,5,neutral,true
+wav-syllables/diu6.wav,diu,6,neutral (high),true
+wav-syllables/dong1.wav,dong,1,high level,true
+wav-syllables/dong2.wav,dong,2,rising,true
+wav-syllables/dong3.wav,dong,3,low dipping (half),true
+wav-syllables/dong4.wav,dong,4,falling,true
+wav-syllables/dong5.wav,dong,5,neutral,true
+wav-syllables/dong6.wav,dong,6,neutral (high),true
+wav-syllables/dou1.wav,dou,1,high level,true
+wav-syllables/dou2.wav,dou,2,rising,true
+wav-syllables/dou3.wav,dou,3,low dipping (half),true
+wav-syllables/dou4.wav,dou,4,falling,true
+wav-syllables/dou5.wav,dou,5,neutral,true
+wav-syllables/dou6.wav,dou,6,neutral (high),true
+wav-syllables/du1.wav,du,1,high level,true
+wav-syllables/du2.wav,du,2,rising,true
+wav-syllables/du3.wav,du,3,low dipping (half),true
+wav-syllables/du4.wav,du,4,falling,true
+wav-syllables/du5.wav,du,5,neutral,true
+wav-syllables/du6.wav,du,6,neutral (high),true
+wav-syllables/duan1.wav,duan,1,high level,true
+wav-syllables/duan2.wav,duan,2,rising,true
+wav-syllables/duan3.wav,duan,3,low dipping (half),true
+wav-syllables/duan4.wav,duan,4,falling,true
+wav-syllables/duan5.wav,duan,5,neutral,true
+wav-syllables/duan6.wav,duan,6,neutral (high),true
+wav-syllables/dui1.wav,dui,1,high level,true
+wav-syllables/dui2.wav,dui,2,rising,true
+wav-syllables/dui3.wav,dui,3,low dipping (half),true
+wav-syllables/dui4.wav,dui,4,falling,true
+wav-syllables/dui5.wav,dui,5,neutral,true
+wav-syllables/dui6.wav,dui,6,neutral (high),true
+wav-syllables/dun1.wav,dun,1,high level,true
+wav-syllables/dun2.wav,dun,2,rising,true
+wav-syllables/dun3.wav,dun,3,low dipping (half),true
+wav-syllables/dun4.wav,dun,4,falling,true
+wav-syllables/dun5.wav,dun,5,neutral,true
+wav-syllables/dun6.wav,dun,6,neutral (high),true
+wav-syllables/duo1.wav,duo,1,high level,true
+wav-syllables/duo2.wav,duo,2,rising,true
+wav-syllables/duo3.wav,duo,3,low dipping (half),true
+wav-syllables/duo4.wav,duo,4,falling,true
+wav-syllables/duo5.wav,duo,5,neutral,true
+wav-syllables/duo6.wav,duo,6,neutral (high),true
+wav-syllables/e1.wav,e,1,high level,true
+wav-syllables/e2.wav,e,2,rising,true
+wav-syllables/e3.wav,e,3,low dipping (half),true
+wav-syllables/e4.wav,e,4,falling,true
+wav-syllables/e5.wav,e,5,neutral,true
+wav-syllables/e6.wav,e,6,neutral (high),true
+wav-syllables/ei1.wav,ei,1,high level,true
+wav-syllables/ei2.wav,ei,2,rising,true
+wav-syllables/ei3.wav,ei,3,low dipping (half),true
+wav-syllables/ei4.wav,ei,4,falling,true
+wav-syllables/ei5.wav,ei,5,neutral,true
+wav-syllables/ei6.wav,ei,6,neutral (high),true
+wav-syllables/en1.wav,en,1,high level,true
+wav-syllables/en2.wav,en,2,rising,true
+wav-syllables/en3.wav,en,3,low dipping (half),true
+wav-syllables/en4.wav,en,4,falling,true
+wav-syllables/en5.wav,en,5,neutral,true
+wav-syllables/en6.wav,en,6,neutral (high),true
+wav-syllables/eng1.wav,eng,1,high level,true
+wav-syllables/eng2.wav,eng,2,rising,true
+wav-syllables/eng3.wav,eng,3,low dipping (half),true
+wav-syllables/eng4.wav,eng,4,falling,true
+wav-syllables/eng5.wav,eng,5,neutral,true
+wav-syllables/eng6.wav,eng,6,neutral (high),true
+wav-syllables/er1.wav,er,1,high level,true
+wav-syllables/er2.wav,er,2,rising,true
+wav-syllables/er3.wav,er,3,low dipping (half),true
+wav-syllables/er4.wav,er,4,falling,true
+wav-syllables/er5.wav,er,5,neutral,true
+wav-syllables/er6.wav,er,6,neutral (high),true
+wav-syllables/fa1.wav,fa,1,high level,true
+wav-syllables/fa2.wav,fa,2,rising,true
+wav-syllables/fa3.wav,fa,3,low dipping (half),true
+wav-syllables/fa4.wav,fa,4,falling,true
+wav-syllables/fa5.wav,fa,5,neutral,true
+wav-syllables/fa6.wav,fa,6,neutral (high),true
+wav-syllables/fan1.wav,fan,1,high level,true
+wav-syllables/fan2.wav,fan,2,rising,true
+wav-syllables/fan3.wav,fan,3,low dipping (half),true
+wav-syllables/fan4.wav,fan,4,falling,true
+wav-syllables/fan5.wav,fan,5,neutral,true
+wav-syllables/fan6.wav,fan,6,neutral (high),true
+wav-syllables/fang1.wav,fang,1,high level,true
+wav-syllables/fang2.wav,fang,2,rising,true
+wav-syllables/fang3.wav,fang,3,low dipping (half),true
+wav-syllables/fang4.wav,fang,4,falling,true
+wav-syllables/fang5.wav,fang,5,neutral,true
+wav-syllables/fang6.wav,fang,6,neutral (high),true
+wav-syllables/fei1.wav,fei,1,high level,true
+wav-syllables/fei2.wav,fei,2,rising,true
+wav-syllables/fei3.wav,fei,3,low dipping (half),true
+wav-syllables/fei4.wav,fei,4,falling,true
+wav-syllables/fei5.wav,fei,5,neutral,true
+wav-syllables/fei6.wav,fei,6,neutral (high),true
+wav-syllables/fen1.wav,fen,1,high level,true
+wav-syllables/fen2.wav,fen,2,rising,true
+wav-syllables/fen3.wav,fen,3,low dipping (half),true
+wav-syllables/fen4.wav,fen,4,falling,true
+wav-syllables/fen5.wav,fen,5,neutral,true
+wav-syllables/fen6.wav,fen,6,neutral (high),true
+wav-syllables/feng1.wav,feng,1,high level,true
+wav-syllables/feng2.wav,feng,2,rising,true
+wav-syllables/feng3.wav,feng,3,low dipping (half),true
+wav-syllables/feng4.wav,feng,4,falling,true
+wav-syllables/feng5.wav,feng,5,neutral,true
+wav-syllables/feng6.wav,feng,6,neutral (high),true
+wav-syllables/fo1.wav,fo,1,high level,true
+wav-syllables/fo2.wav,fo,2,rising,true
+wav-syllables/fo3.wav,fo,3,low dipping (half),true
+wav-syllables/fo4.wav,fo,4,falling,true
+wav-syllables/fo5.wav,fo,5,neutral,true
+wav-syllables/fo6.wav,fo,6,neutral (high),true
+wav-syllables/fou1.wav,fou,1,high level,true
+wav-syllables/fou2.wav,fou,2,rising,true
+wav-syllables/fou3.wav,fou,3,low dipping (half),true
+wav-syllables/fou4.wav,fou,4,falling,true
+wav-syllables/fou5.wav,fou,5,neutral,true
+wav-syllables/fou6.wav,fou,6,neutral (high),true
+wav-syllables/fu1.wav,fu,1,high level,true
+wav-syllables/fu2.wav,fu,2,rising,true
+wav-syllables/fu3.wav,fu,3,low dipping (half),true
+wav-syllables/fu4.wav,fu,4,falling,true
+wav-syllables/fu5.wav,fu,5,neutral,true
+wav-syllables/fu6.wav,fu,6,neutral (high),true
+wav-syllables/ga1.wav,ga,1,high level,true
+wav-syllables/ga2.wav,ga,2,rising,true
+wav-syllables/ga3.wav,ga,3,low dipping (half),true
+wav-syllables/ga4.wav,ga,4,falling,true
+wav-syllables/ga5.wav,ga,5,neutral,true
+wav-syllables/ga6.wav,ga,6,neutral (high),true
+wav-syllables/gai1.wav,gai,1,high level,true
+wav-syllables/gai2.wav,gai,2,rising,true
+wav-syllables/gai3.wav,gai,3,low dipping (half),true
+wav-syllables/gai4.wav,gai,4,falling,true
+wav-syllables/gai5.wav,gai,5,neutral,true
+wav-syllables/gai6.wav,gai,6,neutral (high),true
+wav-syllables/gan1.wav,gan,1,high level,true
+wav-syllables/gan2.wav,gan,2,rising,true
+wav-syllables/gan3.wav,gan,3,low dipping (half),true
+wav-syllables/gan4.wav,gan,4,falling,true
+wav-syllables/gan5.wav,gan,5,neutral,true
+wav-syllables/gan6.wav,gan,6,neutral (high),true
+wav-syllables/gang1.wav,gang,1,high level,true
+wav-syllables/gang2.wav,gang,2,rising,true
+wav-syllables/gang3.wav,gang,3,low dipping (half),true
+wav-syllables/gang4.wav,gang,4,falling,true
+wav-syllables/gang5.wav,gang,5,neutral,true
+wav-syllables/gang6.wav,gang,6,neutral (high),true
+wav-syllables/gao1.wav,gao,1,high level,true
+wav-syllables/gao2.wav,gao,2,rising,true
+wav-syllables/gao3.wav,gao,3,low dipping (half),true
+wav-syllables/gao4.wav,gao,4,falling,true
+wav-syllables/gao5.wav,gao,5,neutral,true
+wav-syllables/gao6.wav,gao,6,neutral (high),true
+wav-syllables/ge1.wav,ge,1,high level,true
+wav-syllables/ge2.wav,ge,2,rising,true
+wav-syllables/ge3.wav,ge,3,low dipping (half),true
+wav-syllables/ge4.wav,ge,4,falling,true
+wav-syllables/ge5.wav,ge,5,neutral,true
+wav-syllables/ge6.wav,ge,6,neutral (high),true
+wav-syllables/gei1.wav,gei,1,high level,true
+wav-syllables/gei2.wav,gei,2,rising,true
+wav-syllables/gei3.wav,gei,3,low dipping (half),true
+wav-syllables/gei4.wav,gei,4,falling,true
+wav-syllables/gei5.wav,gei,5,neutral,true
+wav-syllables/gei6.wav,gei,6,neutral (high),true
+wav-syllables/gen1.wav,gen,1,high level,true
+wav-syllables/gen2.wav,gen,2,rising,true
+wav-syllables/gen3.wav,gen,3,low dipping (half),true
+wav-syllables/gen4.wav,gen,4,falling,true
+wav-syllables/gen5.wav,gen,5,neutral,true
+wav-syllables/gen6.wav,gen,6,neutral (high),true
+wav-syllables/geng1.wav,geng,1,high level,true
+wav-syllables/geng2.wav,geng,2,rising,true
+wav-syllables/geng3.wav,geng,3,low dipping (half),true
+wav-syllables/geng4.wav,geng,4,falling,true
+wav-syllables/geng5.wav,geng,5,neutral,true
+wav-syllables/geng6.wav,geng,6,neutral (high),true
+wav-syllables/gong1.wav,gong,1,high level,true
+wav-syllables/gong2.wav,gong,2,rising,true
+wav-syllables/gong3.wav,gong,3,low dipping (half),true
+wav-syllables/gong4.wav,gong,4,falling,true
+wav-syllables/gong5.wav,gong,5,neutral,true
+wav-syllables/gong6.wav,gong,6,neutral (high),true
+wav-syllables/gou1.wav,gou,1,high level,true
+wav-syllables/gou2.wav,gou,2,rising,true
+wav-syllables/gou3.wav,gou,3,low dipping (half),true
+wav-syllables/gou4.wav,gou,4,falling,true
+wav-syllables/gou5.wav,gou,5,neutral,true
+wav-syllables/gou6.wav,gou,6,neutral (high),true
+wav-syllables/gu1.wav,gu,1,high level,true
+wav-syllables/gu2.wav,gu,2,rising,true
+wav-syllables/gu3.wav,gu,3,low dipping (half),true
+wav-syllables/gu4.wav,gu,4,falling,true
+wav-syllables/gu5.wav,gu,5,neutral,true
+wav-syllables/gu6.wav,gu,6,neutral (high),true
+wav-syllables/gua1.wav,gua,1,high level,true
+wav-syllables/gua2.wav,gua,2,rising,true
+wav-syllables/gua3.wav,gua,3,low dipping (half),true
+wav-syllables/gua4.wav,gua,4,falling,true
+wav-syllables/gua5.wav,gua,5,neutral,true
+wav-syllables/gua6.wav,gua,6,neutral (high),true
+wav-syllables/guai1.wav,guai,1,high level,true
+wav-syllables/guai2.wav,guai,2,rising,true
+wav-syllables/guai3.wav,guai,3,low dipping (half),true
+wav-syllables/guai4.wav,guai,4,falling,true
+wav-syllables/guai5.wav,guai,5,neutral,true
+wav-syllables/guai6.wav,guai,6,neutral (high),true
+wav-syllables/guan1.wav,guan,1,high level,true
+wav-syllables/guan2.wav,guan,2,rising,true
+wav-syllables/guan3.wav,guan,3,low dipping (half),true
+wav-syllables/guan4.wav,guan,4,falling,true
+wav-syllables/guan5.wav,guan,5,neutral,true
+wav-syllables/guan6.wav,guan,6,neutral (high),true
+wav-syllables/guang1.wav,guang,1,high level,true
+wav-syllables/guang2.wav,guang,2,rising,true
+wav-syllables/guang3.wav,guang,3,low dipping (half),true
+wav-syllables/guang4.wav,guang,4,falling,true
+wav-syllables/guang5.wav,guang,5,neutral,true
+wav-syllables/guang6.wav,guang,6,neutral (high),true
+wav-syllables/gui1.wav,gui,1,high level,true
+wav-syllables/gui2.wav,gui,2,rising,true
+wav-syllables/gui3.wav,gui,3,low dipping (half),true
+wav-syllables/gui4.wav,gui,4,falling,true
+wav-syllables/gui5.wav,gui,5,neutral,true
+wav-syllables/gui6.wav,gui,6,neutral (high),true
+wav-syllables/gun1.wav,gun,1,high level,true
+wav-syllables/gun2.wav,gun,2,rising,true
+wav-syllables/gun3.wav,gun,3,low dipping (half),true
+wav-syllables/gun4.wav,gun,4,falling,true
+wav-syllables/gun5.wav,gun,5,neutral,true
+wav-syllables/gun6.wav,gun,6,neutral (high),true
+wav-syllables/guo1.wav,guo,1,high level,true
+wav-syllables/guo2.wav,guo,2,rising,true
+wav-syllables/guo3.wav,guo,3,low dipping (half),true
+wav-syllables/guo4.wav,guo,4,falling,true
+wav-syllables/guo5.wav,guo,5,neutral,true
+wav-syllables/guo6.wav,guo,6,neutral (high),true
+wav-syllables/ha1.wav,ha,1,high level,true
+wav-syllables/ha2.wav,ha,2,rising,true
+wav-syllables/ha3.wav,ha,3,low dipping (half),true
+wav-syllables/ha4.wav,ha,4,falling,true
+wav-syllables/ha5.wav,ha,5,neutral,true
+wav-syllables/ha6.wav,ha,6,neutral (high),true
+wav-syllables/hai1.wav,hai,1,high level,true
+wav-syllables/hai2.wav,hai,2,rising,true
+wav-syllables/hai3.wav,hai,3,low dipping (half),true
+wav-syllables/hai4.wav,hai,4,falling,true
+wav-syllables/hai5.wav,hai,5,neutral,true
+wav-syllables/hai6.wav,hai,6,neutral (high),true
+wav-syllables/han1.wav,han,1,high level,true
+wav-syllables/han2.wav,han,2,rising,true
+wav-syllables/han3.wav,han,3,low dipping (half),true
+wav-syllables/han4.wav,han,4,falling,true
+wav-syllables/han5.wav,han,5,neutral,true
+wav-syllables/han6.wav,han,6,neutral (high),true
+wav-syllables/hang1.wav,hang,1,high level,true
+wav-syllables/hang2.wav,hang,2,rising,true
+wav-syllables/hang3.wav,hang,3,low dipping (half),true
+wav-syllables/hang4.wav,hang,4,falling,true
+wav-syllables/hang5.wav,hang,5,neutral,true
+wav-syllables/hang6.wav,hang,6,neutral (high),true
+wav-syllables/hao1.wav,hao,1,high level,true
+wav-syllables/hao2.wav,hao,2,rising,true
+wav-syllables/hao3.wav,hao,3,low dipping (half),true
+wav-syllables/hao4.wav,hao,4,falling,true
+wav-syllables/hao5.wav,hao,5,neutral,true
+wav-syllables/hao6.wav,hao,6,neutral (high),true
+wav-syllables/he1.wav,he,1,high level,true
+wav-syllables/he2.wav,he,2,rising,true
+wav-syllables/he3.wav,he,3,low dipping (half),true
+wav-syllables/he4.wav,he,4,falling,true
+wav-syllables/he5.wav,he,5,neutral,true
+wav-syllables/he6.wav,he,6,neutral (high),true
+wav-syllables/hei1.wav,hei,1,high level,true
+wav-syllables/hei2.wav,hei,2,rising,true
+wav-syllables/hei3.wav,hei,3,low dipping (half),true
+wav-syllables/hei4.wav,hei,4,falling,true
+wav-syllables/hei5.wav,hei,5,neutral,true
+wav-syllables/hei6.wav,hei,6,neutral (high),true
+wav-syllables/hen1.wav,hen,1,high level,true
+wav-syllables/hen2.wav,hen,2,rising,true
+wav-syllables/hen3.wav,hen,3,low dipping (half),true
+wav-syllables/hen4.wav,hen,4,falling,true
+wav-syllables/hen5.wav,hen,5,neutral,true
+wav-syllables/hen6.wav,hen,6,neutral (high),true
+wav-syllables/heng1.wav,heng,1,high level,true
+wav-syllables/heng2.wav,heng,2,rising,true
+wav-syllables/heng3.wav,heng,3,low dipping (half),true
+wav-syllables/heng4.wav,heng,4,falling,true
+wav-syllables/heng5.wav,heng,5,neutral,true
+wav-syllables/heng6.wav,heng,6,neutral (high),true
+wav-syllables/hong1.wav,hong,1,high level,true
+wav-syllables/hong2.wav,hong,2,rising,true
+wav-syllables/hong3.wav,hong,3,low dipping (half),true
+wav-syllables/hong4.wav,hong,4,falling,true
+wav-syllables/hong5.wav,hong,5,neutral,true
+wav-syllables/hong6.wav,hong,6,neutral (high),true
+wav-syllables/hou1.wav,hou,1,high level,true
+wav-syllables/hou2.wav,hou,2,rising,true
+wav-syllables/hou3.wav,hou,3,low dipping (half),true
+wav-syllables/hou4.wav,hou,4,falling,true
+wav-syllables/hou5.wav,hou,5,neutral,true
+wav-syllables/hou6.wav,hou,6,neutral (high),true
+wav-syllables/hu1.wav,hu,1,high level,true
+wav-syllables/hu2.wav,hu,2,rising,true
+wav-syllables/hu3.wav,hu,3,low dipping (half),true
+wav-syllables/hu4.wav,hu,4,falling,true
+wav-syllables/hu5.wav,hu,5,neutral,true
+wav-syllables/hu6.wav,hu,6,neutral (high),true
+wav-syllables/hua1.wav,hua,1,high level,true
+wav-syllables/hua2.wav,hua,2,rising,true
+wav-syllables/hua3.wav,hua,3,low dipping (half),true
+wav-syllables/hua4.wav,hua,4,falling,true
+wav-syllables/hua5.wav,hua,5,neutral,true
+wav-syllables/hua6.wav,hua,6,neutral (high),true
+wav-syllables/huai1.wav,huai,1,high level,true
+wav-syllables/huai2.wav,huai,2,rising,true
+wav-syllables/huai3.wav,huai,3,low dipping (half),true
+wav-syllables/huai4.wav,huai,4,falling,true
+wav-syllables/huai5.wav,huai,5,neutral,true
+wav-syllables/huai6.wav,huai,6,neutral (high),true
+wav-syllables/huan1.wav,huan,1,high level,true
+wav-syllables/huan2.wav,huan,2,rising,true
+wav-syllables/huan3.wav,huan,3,low dipping (half),true
+wav-syllables/huan4.wav,huan,4,falling,true
+wav-syllables/huan5.wav,huan,5,neutral,true
+wav-syllables/huan6.wav,huan,6,neutral (high),true
+wav-syllables/huang1.wav,huang,1,high level,true
+wav-syllables/huang2.wav,huang,2,rising,true
+wav-syllables/huang3.wav,huang,3,low dipping (half),true
+wav-syllables/huang4.wav,huang,4,falling,true
+wav-syllables/huang5.wav,huang,5,neutral,true
+wav-syllables/huang6.wav,huang,6,neutral (high),true
+wav-syllables/hui1.wav,hui,1,high level,true
+wav-syllables/hui2.wav,hui,2,rising,true
+wav-syllables/hui3.wav,hui,3,low dipping (half),true
+wav-syllables/hui4.wav,hui,4,falling,true
+wav-syllables/hui5.wav,hui,5,neutral,true
+wav-syllables/hui6.wav,hui,6,neutral (high),true
+wav-syllables/hun1.wav,hun,1,high level,true
+wav-syllables/hun2.wav,hun,2,rising,true
+wav-syllables/hun3.wav,hun,3,low dipping (half),true
+wav-syllables/hun4.wav,hun,4,falling,true
+wav-syllables/hun5.wav,hun,5,neutral,true
+wav-syllables/hun6.wav,hun,6,neutral (high),true
+wav-syllables/huo1.wav,huo,1,high level,true
+wav-syllables/huo2.wav,huo,2,rising,true
+wav-syllables/huo3.wav,huo,3,low dipping (half),true
+wav-syllables/huo4.wav,huo,4,falling,true
+wav-syllables/huo5.wav,huo,5,neutral,true
+wav-syllables/huo6.wav,huo,6,neutral (high),true
+wav-syllables/ji1.wav,ji,1,high level,true
+wav-syllables/ji2.wav,ji,2,rising,true
+wav-syllables/ji3.wav,ji,3,low dipping (half),true
+wav-syllables/ji4.wav,ji,4,falling,true
+wav-syllables/ji5.wav,ji,5,neutral,true
+wav-syllables/ji6.wav,ji,6,neutral (high),true
+wav-syllables/jia1.wav,jia,1,high level,true
+wav-syllables/jia2.wav,jia,2,rising,true
+wav-syllables/jia3.wav,jia,3,low dipping (half),true
+wav-syllables/jia4.wav,jia,4,falling,true
+wav-syllables/jia5.wav,jia,5,neutral,true
+wav-syllables/jia6.wav,jia,6,neutral (high),true
+wav-syllables/jian1.wav,jian,1,high level,true
+wav-syllables/jian2.wav,jian,2,rising,true
+wav-syllables/jian3.wav,jian,3,low dipping (half),true
+wav-syllables/jian4.wav,jian,4,falling,true
+wav-syllables/jian5.wav,jian,5,neutral,true
+wav-syllables/jian6.wav,jian,6,neutral (high),true
+wav-syllables/jiang1.wav,jiang,1,high level,true
+wav-syllables/jiang2.wav,jiang,2,rising,true
+wav-syllables/jiang3.wav,jiang,3,low dipping (half),true
+wav-syllables/jiang4.wav,jiang,4,falling,true
+wav-syllables/jiang5.wav,jiang,5,neutral,true
+wav-syllables/jiang6.wav,jiang,6,neutral (high),true
+wav-syllables/jiao1.wav,jiao,1,high level,true
+wav-syllables/jiao2.wav,jiao,2,rising,true
+wav-syllables/jiao3.wav,jiao,3,low dipping (half),true
+wav-syllables/jiao4.wav,jiao,4,falling,true
+wav-syllables/jiao5.wav,jiao,5,neutral,true
+wav-syllables/jiao6.wav,jiao,6,neutral (high),true
+wav-syllables/jie1.wav,jie,1,high level,true
+wav-syllables/jie2.wav,jie,2,rising,true
+wav-syllables/jie3.wav,jie,3,low dipping (half),true
+wav-syllables/jie4.wav,jie,4,falling,true
+wav-syllables/jie5.wav,jie,5,neutral,true
+wav-syllables/jie6.wav,jie,6,neutral (high),true
+wav-syllables/jin1.wav,jin,1,high level,true
+wav-syllables/jin2.wav,jin,2,rising,true
+wav-syllables/jin3.wav,jin,3,low dipping (half),true
+wav-syllables/jin4.wav,jin,4,falling,true
+wav-syllables/jin5.wav,jin,5,neutral,true
+wav-syllables/jin6.wav,jin,6,neutral (high),true
+wav-syllables/jing1.wav,jing,1,high level,true
+wav-syllables/jing2.wav,jing,2,rising,true
+wav-syllables/jing3.wav,jing,3,low dipping (half),true
+wav-syllables/jing4.wav,jing,4,falling,true
+wav-syllables/jing5.wav,jing,5,neutral,true
+wav-syllables/jing6.wav,jing,6,neutral (high),true
+wav-syllables/jiong1.wav,jiong,1,high level,true
+wav-syllables/jiong2.wav,jiong,2,rising,true
+wav-syllables/jiong3.wav,jiong,3,low dipping (half),true
+wav-syllables/jiong4.wav,jiong,4,falling,true
+wav-syllables/jiong5.wav,jiong,5,neutral,true
+wav-syllables/jiong6.wav,jiong,6,neutral (high),true
+wav-syllables/jiu1.wav,jiu,1,high level,true
+wav-syllables/jiu2.wav,jiu,2,rising,true
+wav-syllables/jiu3.wav,jiu,3,low dipping (half),true
+wav-syllables/jiu4.wav,jiu,4,falling,true
+wav-syllables/jiu5.wav,jiu,5,neutral,true
+wav-syllables/jiu6.wav,jiu,6,neutral (high),true
+wav-syllables/ju1.wav,ju,1,high level,true
+wav-syllables/ju2.wav,ju,2,rising,true
+wav-syllables/ju3.wav,ju,3,low dipping (half),true
+wav-syllables/ju4.wav,ju,4,falling,true
+wav-syllables/ju5.wav,ju,5,neutral,true
+wav-syllables/ju6.wav,ju,6,neutral (high),true
+wav-syllables/juan1.wav,juan,1,high level,true
+wav-syllables/juan2.wav,juan,2,rising,true
+wav-syllables/juan3.wav,juan,3,low dipping (half),true
+wav-syllables/juan4.wav,juan,4,falling,true
+wav-syllables/juan5.wav,juan,5,neutral,true
+wav-syllables/juan6.wav,juan,6,neutral (high),true
+wav-syllables/jue1.wav,jue,1,high level,true
+wav-syllables/jue2.wav,jue,2,rising,true
+wav-syllables/jue3.wav,jue,3,low dipping (half),true
+wav-syllables/jue4.wav,jue,4,falling,true
+wav-syllables/jue5.wav,jue,5,neutral,true
+wav-syllables/jue6.wav,jue,6,neutral (high),true
+wav-syllables/jun1.wav,jun,1,high level,true
+wav-syllables/jun2.wav,jun,2,rising,true
+wav-syllables/jun3.wav,jun,3,low dipping (half),true
+wav-syllables/jun4.wav,jun,4,falling,true
+wav-syllables/jun5.wav,jun,5,neutral,true
+wav-syllables/jun6.wav,jun,6,neutral (high),true
+wav-syllables/ka1.wav,ka,1,high level,true
+wav-syllables/ka2.wav,ka,2,rising,true
+wav-syllables/ka3.wav,ka,3,low dipping (half),true
+wav-syllables/ka4.wav,ka,4,falling,true
+wav-syllables/ka5.wav,ka,5,neutral,true
+wav-syllables/ka6.wav,ka,6,neutral (high),true
+wav-syllables/kai1.wav,kai,1,high level,true
+wav-syllables/kai2.wav,kai,2,rising,true
+wav-syllables/kai3.wav,kai,3,low dipping (half),true
+wav-syllables/kai4.wav,kai,4,falling,true
+wav-syllables/kai5.wav,kai,5,neutral,true
+wav-syllables/kai6.wav,kai,6,neutral (high),true
+wav-syllables/kan1.wav,kan,1,high level,true
+wav-syllables/kan2.wav,kan,2,rising,true
+wav-syllables/kan3.wav,kan,3,low dipping (half),true
+wav-syllables/kan4.wav,kan,4,falling,true
+wav-syllables/kan5.wav,kan,5,neutral,true
+wav-syllables/kan6.wav,kan,6,neutral (high),true
+wav-syllables/kang1.wav,kang,1,high level,true
+wav-syllables/kang2.wav,kang,2,rising,true
+wav-syllables/kang3.wav,kang,3,low dipping (half),true
+wav-syllables/kang4.wav,kang,4,falling,true
+wav-syllables/kang5.wav,kang,5,neutral,true
+wav-syllables/kang6.wav,kang,6,neutral (high),true
+wav-syllables/kao1.wav,kao,1,high level,true
+wav-syllables/kao2.wav,kao,2,rising,true
+wav-syllables/kao3.wav,kao,3,low dipping (half),true
+wav-syllables/kao4.wav,kao,4,falling,true
+wav-syllables/kao5.wav,kao,5,neutral,true
+wav-syllables/kao6.wav,kao,6,neutral (high),true
+wav-syllables/ke1.wav,ke,1,high level,true
+wav-syllables/ke2.wav,ke,2,rising,true
+wav-syllables/ke3.wav,ke,3,low dipping (half),true
+wav-syllables/ke4.wav,ke,4,falling,true
+wav-syllables/ke5.wav,ke,5,neutral,true
+wav-syllables/ke6.wav,ke,6,neutral (high),true
+wav-syllables/kei1.wav,kei,1,high level,true
+wav-syllables/kei2.wav,kei,2,rising,true
+wav-syllables/kei3.wav,kei,3,low dipping (half),true
+wav-syllables/kei4.wav,kei,4,falling,true
+wav-syllables/kei5.wav,kei,5,neutral,true
+wav-syllables/kei6.wav,kei,6,neutral (high),true
+wav-syllables/ken1.wav,ken,1,high level,true
+wav-syllables/ken2.wav,ken,2,rising,true
+wav-syllables/ken3.wav,ken,3,low dipping (half),true
+wav-syllables/ken4.wav,ken,4,falling,true
+wav-syllables/ken5.wav,ken,5,neutral,true
+wav-syllables/ken6.wav,ken,6,neutral (high),true
+wav-syllables/keng1.wav,keng,1,high level,true
+wav-syllables/keng2.wav,keng,2,rising,true
+wav-syllables/keng3.wav,keng,3,low dipping (half),true
+wav-syllables/keng4.wav,keng,4,falling,true
+wav-syllables/keng5.wav,keng,5,neutral,true
+wav-syllables/keng6.wav,keng,6,neutral (high),true
+wav-syllables/kong1.wav,kong,1,high level,true
+wav-syllables/kong2.wav,kong,2,rising,true
+wav-syllables/kong3.wav,kong,3,low dipping (half),true
+wav-syllables/kong4.wav,kong,4,falling,true
+wav-syllables/kong5.wav,kong,5,neutral,true
+wav-syllables/kong6.wav,kong,6,neutral (high),true
+wav-syllables/kou1.wav,kou,1,high level,true
+wav-syllables/kou2.wav,kou,2,rising,true
+wav-syllables/kou3.wav,kou,3,low dipping (half),true
+wav-syllables/kou4.wav,kou,4,falling,true
+wav-syllables/kou5.wav,kou,5,neutral,true
+wav-syllables/kou6.wav,kou,6,neutral (high),true
+wav-syllables/ku1.wav,ku,1,high level,true
+wav-syllables/ku2.wav,ku,2,rising,true
+wav-syllables/ku3.wav,ku,3,low dipping (half),true
+wav-syllables/ku4.wav,ku,4,falling,true
+wav-syllables/ku5.wav,ku,5,neutral,true
+wav-syllables/ku6.wav,ku,6,neutral (high),true
+wav-syllables/kua1.wav,kua,1,high level,true
+wav-syllables/kua2.wav,kua,2,rising,true
+wav-syllables/kua3.wav,kua,3,low dipping (half),true
+wav-syllables/kua4.wav,kua,4,falling,true
+wav-syllables/kua5.wav,kua,5,neutral,true
+wav-syllables/kua6.wav,kua,6,neutral (high),true
+wav-syllables/kuai1.wav,kuai,1,high level,true
+wav-syllables/kuai2.wav,kuai,2,rising,true
+wav-syllables/kuai3.wav,kuai,3,low dipping (half),true
+wav-syllables/kuai4.wav,kuai,4,falling,true
+wav-syllables/kuai5.wav,kuai,5,neutral,true
+wav-syllables/kuai6.wav,kuai,6,neutral (high),true
+wav-syllables/kuan1.wav,kuan,1,high level,true
+wav-syllables/kuan2.wav,kuan,2,rising,true
+wav-syllables/kuan3.wav,kuan,3,low dipping (half),true
+wav-syllables/kuan4.wav,kuan,4,falling,true
+wav-syllables/kuan5.wav,kuan,5,neutral,true
+wav-syllables/kuan6.wav,kuan,6,neutral (high),true
+wav-syllables/kuang1.wav,kuang,1,high level,true
+wav-syllables/kuang2.wav,kuang,2,rising,true
+wav-syllables/kuang3.wav,kuang,3,low dipping (half),true
+wav-syllables/kuang4.wav,kuang,4,falling,true
+wav-syllables/kuang5.wav,kuang,5,neutral,true
+wav-syllables/kuang6.wav,kuang,6,neutral (high),true
+wav-syllables/kui1.wav,kui,1,high level,true
+wav-syllables/kui2.wav,kui,2,rising,true
+wav-syllables/kui3.wav,kui,3,low dipping (half),true
+wav-syllables/kui4.wav,kui,4,falling,true
+wav-syllables/kui5.wav,kui,5,neutral,true
+wav-syllables/kui6.wav,kui,6,neutral (high),true
+wav-syllables/kun1.wav,kun,1,high level,true
+wav-syllables/kun2.wav,kun,2,rising,true
+wav-syllables/kun3.wav,kun,3,low dipping (half),true
+wav-syllables/kun4.wav,kun,4,falling,true
+wav-syllables/kun5.wav,kun,5,neutral,true
+wav-syllables/kun6.wav,kun,6,neutral (high),true
+wav-syllables/kuo1.wav,kuo,1,high level,true
+wav-syllables/kuo2.wav,kuo,2,rising,true
+wav-syllables/kuo3.wav,kuo,3,low dipping (half),true
+wav-syllables/kuo4.wav,kuo,4,falling,true
+wav-syllables/kuo5.wav,kuo,5,neutral,true
+wav-syllables/kuo6.wav,kuo,6,neutral (high),true
+wav-syllables/la1.wav,la,1,high level,true
+wav-syllables/la2.wav,la,2,rising,true
+wav-syllables/la3.wav,la,3,low dipping (half),true
+wav-syllables/la4.wav,la,4,falling,true
+wav-syllables/la5.wav,la,5,neutral,true
+wav-syllables/la6.wav,la,6,neutral (high),true
+wav-syllables/lai1.wav,lai,1,high level,true
+wav-syllables/lai2.wav,lai,2,rising,true
+wav-syllables/lai3.wav,lai,3,low dipping (half),true
+wav-syllables/lai4.wav,lai,4,falling,true
+wav-syllables/lai5.wav,lai,5,neutral,true
+wav-syllables/lai6.wav,lai,6,neutral (high),true
+wav-syllables/lan1.wav,lan,1,high level,true
+wav-syllables/lan2.wav,lan,2,rising,true
+wav-syllables/lan3.wav,lan,3,low dipping (half),true
+wav-syllables/lan4.wav,lan,4,falling,true
+wav-syllables/lan5.wav,lan,5,neutral,true
+wav-syllables/lan6.wav,lan,6,neutral (high),true
+wav-syllables/lang1.wav,lang,1,high level,true
+wav-syllables/lang2.wav,lang,2,rising,true
+wav-syllables/lang3.wav,lang,3,low dipping (half),true
+wav-syllables/lang4.wav,lang,4,falling,true
+wav-syllables/lang5.wav,lang,5,neutral,true
+wav-syllables/lang6.wav,lang,6,neutral (high),true
+wav-syllables/lao1.wav,lao,1,high level,true
+wav-syllables/lao2.wav,lao,2,rising,true
+wav-syllables/lao3.wav,lao,3,low dipping (half),true
+wav-syllables/lao4.wav,lao,4,falling,true
+wav-syllables/lao5.wav,lao,5,neutral,true
+wav-syllables/lao6.wav,lao,6,neutral (high),true
+wav-syllables/le1.wav,le,1,high level,true
+wav-syllables/le2.wav,le,2,rising,true
+wav-syllables/le3.wav,le,3,low dipping (half),true
+wav-syllables/le4.wav,le,4,falling,true
+wav-syllables/le5.wav,le,5,neutral,true
+wav-syllables/le6.wav,le,6,neutral (high),true
+wav-syllables/lei1.wav,lei,1,high level,true
+wav-syllables/lei2.wav,lei,2,rising,true
+wav-syllables/lei3.wav,lei,3,low dipping (half),true
+wav-syllables/lei4.wav,lei,4,falling,true
+wav-syllables/lei5.wav,lei,5,neutral,true
+wav-syllables/lei6.wav,lei,6,neutral (high),true
+wav-syllables/leng1.wav,leng,1,high level,true
+wav-syllables/leng2.wav,leng,2,rising,true
+wav-syllables/leng3.wav,leng,3,low dipping (half),true
+wav-syllables/leng4.wav,leng,4,falling,true
+wav-syllables/leng5.wav,leng,5,neutral,true
+wav-syllables/leng6.wav,leng,6,neutral (high),true
+wav-syllables/li1.wav,li,1,high level,true
+wav-syllables/li2.wav,li,2,rising,true
+wav-syllables/li3.wav,li,3,low dipping (half),true
+wav-syllables/li4.wav,li,4,falling,true
+wav-syllables/li5.wav,li,5,neutral,true
+wav-syllables/li6.wav,li,6,neutral (high),true
+wav-syllables/lia1.wav,lia,1,high level,true
+wav-syllables/lia2.wav,lia,2,rising,true
+wav-syllables/lia3.wav,lia,3,low dipping (half),true
+wav-syllables/lia4.wav,lia,4,falling,true
+wav-syllables/lia5.wav,lia,5,neutral,true
+wav-syllables/lia6.wav,lia,6,neutral (high),true
+wav-syllables/lian1.wav,lian,1,high level,true
+wav-syllables/lian2.wav,lian,2,rising,true
+wav-syllables/lian3.wav,lian,3,low dipping (half),true
+wav-syllables/lian4.wav,lian,4,falling,true
+wav-syllables/lian5.wav,lian,5,neutral,true
+wav-syllables/lian6.wav,lian,6,neutral (high),true
+wav-syllables/liang1.wav,liang,1,high level,true
+wav-syllables/liang2.wav,liang,2,rising,true
+wav-syllables/liang3.wav,liang,3,low dipping (half),true
+wav-syllables/liang4.wav,liang,4,falling,true
+wav-syllables/liang5.wav,liang,5,neutral,true
+wav-syllables/liang6.wav,liang,6,neutral (high),true
+wav-syllables/liao1.wav,liao,1,high level,true
+wav-syllables/liao2.wav,liao,2,rising,true
+wav-syllables/liao3.wav,liao,3,low dipping (half),true
+wav-syllables/liao4.wav,liao,4,falling,true
+wav-syllables/liao5.wav,liao,5,neutral,true
+wav-syllables/liao6.wav,liao,6,neutral (high),true
+wav-syllables/lie1.wav,lie,1,high level,true
+wav-syllables/lie2.wav,lie,2,rising,true
+wav-syllables/lie3.wav,lie,3,low dipping (half),true
+wav-syllables/lie4.wav,lie,4,falling,true
+wav-syllables/lie5.wav,lie,5,neutral,true
+wav-syllables/lie6.wav,lie,6,neutral (high),true
+wav-syllables/lin1.wav,lin,1,high level,true
+wav-syllables/lin2.wav,lin,2,rising,true
+wav-syllables/lin3.wav,lin,3,low dipping (half),true
+wav-syllables/lin4.wav,lin,4,falling,true
+wav-syllables/lin5.wav,lin,5,neutral,true
+wav-syllables/lin6.wav,lin,6,neutral (high),true
+wav-syllables/ling1.wav,ling,1,high level,true
+wav-syllables/ling2.wav,ling,2,rising,true
+wav-syllables/ling3.wav,ling,3,low dipping (half),true
+wav-syllables/ling4.wav,ling,4,falling,true
+wav-syllables/ling5.wav,ling,5,neutral,true
+wav-syllables/ling6.wav,ling,6,neutral (high),true
+wav-syllables/liu1.wav,liu,1,high level,true
+wav-syllables/liu2.wav,liu,2,rising,true
+wav-syllables/liu3.wav,liu,3,low dipping (half),true
+wav-syllables/liu4.wav,liu,4,falling,true
+wav-syllables/liu5.wav,liu,5,neutral,true
+wav-syllables/liu6.wav,liu,6,neutral (high),true
+wav-syllables/lo1.wav,lo,1,high level,true
+wav-syllables/lo2.wav,lo,2,rising,true
+wav-syllables/lo3.wav,lo,3,low dipping (half),true
+wav-syllables/lo4.wav,lo,4,falling,true
+wav-syllables/lo5.wav,lo,5,neutral,true
+wav-syllables/lo6.wav,lo,6,neutral (high),true
+wav-syllables/long1.wav,long,1,high level,true
+wav-syllables/long2.wav,long,2,rising,true
+wav-syllables/long3.wav,long,3,low dipping (half),true
+wav-syllables/long4.wav,long,4,falling,true
+wav-syllables/long5.wav,long,5,neutral,true
+wav-syllables/long6.wav,long,6,neutral (high),true
+wav-syllables/lou1.wav,lou,1,high level,true
+wav-syllables/lou2.wav,lou,2,rising,true
+wav-syllables/lou3.wav,lou,3,low dipping (half),true
+wav-syllables/lou4.wav,lou,4,falling,true
+wav-syllables/lou5.wav,lou,5,neutral,true
+wav-syllables/lou6.wav,lou,6,neutral (high),true
+wav-syllables/lu1.wav,lu,1,high level,true
+wav-syllables/lu2.wav,lu,2,rising,true
+wav-syllables/lu3.wav,lu,3,low dipping (half),true
+wav-syllables/lu4.wav,lu,4,falling,true
+wav-syllables/lu5.wav,lu,5,neutral,true
+wav-syllables/lu6.wav,lu,6,neutral (high),true
+wav-syllables/luan1.wav,luan,1,high level,true
+wav-syllables/luan2.wav,luan,2,rising,true
+wav-syllables/luan3.wav,luan,3,low dipping (half),true
+wav-syllables/luan4.wav,luan,4,falling,true
+wav-syllables/luan5.wav,luan,5,neutral,true
+wav-syllables/luan6.wav,luan,6,neutral (high),true
+wav-syllables/lun1.wav,lun,1,high level,true
+wav-syllables/lun2.wav,lun,2,rising,true
+wav-syllables/lun3.wav,lun,3,low dipping (half),true
+wav-syllables/lun4.wav,lun,4,falling,true
+wav-syllables/lun5.wav,lun,5,neutral,true
+wav-syllables/lun6.wav,lun,6,neutral (high),true
+wav-syllables/luo1.wav,luo,1,high level,true
+wav-syllables/luo2.wav,luo,2,rising,true
+wav-syllables/luo3.wav,luo,3,low dipping (half),true
+wav-syllables/luo4.wav,luo,4,falling,true
+wav-syllables/luo5.wav,luo,5,neutral,true
+wav-syllables/luo6.wav,luo,6,neutral (high),true
+wav-syllables/lv1.wav,lv,1,high level,true
+wav-syllables/lv2.wav,lv,2,rising,true
+wav-syllables/lv3.wav,lv,3,low dipping (half),true
+wav-syllables/lv4.wav,lv,4,falling,true
+wav-syllables/lv5.wav,lv,5,neutral,true
+wav-syllables/lv6.wav,lv,6,neutral (high),true
+wav-syllables/lve1.wav,lve,1,high level,true
+wav-syllables/lve2.wav,lve,2,rising,true
+wav-syllables/lve3.wav,lve,3,low dipping (half),true
+wav-syllables/lve4.wav,lve,4,falling,true
+wav-syllables/lve5.wav,lve,5,neutral,true
+wav-syllables/lve6.wav,lve,6,neutral (high),true
+wav-syllables/ma1.wav,ma,1,high level,true
+wav-syllables/ma2.wav,ma,2,rising,true
+wav-syllables/ma3.wav,ma,3,low dipping (half),true
+wav-syllables/ma4.wav,ma,4,falling,true
+wav-syllables/ma5.wav,ma,5,neutral,true
+wav-syllables/ma6.wav,ma,6,neutral (high),true
+wav-syllables/mai1.wav,mai,1,high level,true
+wav-syllables/mai2.wav,mai,2,rising,true
+wav-syllables/mai3.wav,mai,3,low dipping (half),true
+wav-syllables/mai4.wav,mai,4,falling,true
+wav-syllables/mai5.wav,mai,5,neutral,true
+wav-syllables/mai6.wav,mai,6,neutral (high),true
+wav-syllables/man1.wav,man,1,high level,true
+wav-syllables/man2.wav,man,2,rising,true
+wav-syllables/man3.wav,man,3,low dipping (half),true
+wav-syllables/man4.wav,man,4,falling,true
+wav-syllables/man5.wav,man,5,neutral,true
+wav-syllables/man6.wav,man,6,neutral (high),true
+wav-syllables/mang1.wav,mang,1,high level,true
+wav-syllables/mang2.wav,mang,2,rising,true
+wav-syllables/mang3.wav,mang,3,low dipping (half),true
+wav-syllables/mang4.wav,mang,4,falling,true
+wav-syllables/mang5.wav,mang,5,neutral,true
+wav-syllables/mang6.wav,mang,6,neutral (high),true
+wav-syllables/mao1.wav,mao,1,high level,true
+wav-syllables/mao2.wav,mao,2,rising,true
+wav-syllables/mao3.wav,mao,3,low dipping (half),true
+wav-syllables/mao4.wav,mao,4,falling,true
+wav-syllables/mao5.wav,mao,5,neutral,true
+wav-syllables/mao6.wav,mao,6,neutral (high),true
+wav-syllables/me1.wav,me,1,high level,true
+wav-syllables/me2.wav,me,2,rising,true
+wav-syllables/me3.wav,me,3,low dipping (half),true
+wav-syllables/me4.wav,me,4,falling,true
+wav-syllables/me5.wav,me,5,neutral,true
+wav-syllables/me6.wav,me,6,neutral (high),true
+wav-syllables/mei1.wav,mei,1,high level,true
+wav-syllables/mei2.wav,mei,2,rising,true
+wav-syllables/mei3.wav,mei,3,low dipping (half),true
+wav-syllables/mei4.wav,mei,4,falling,true
+wav-syllables/mei5.wav,mei,5,neutral,true
+wav-syllables/mei6.wav,mei,6,neutral (high),true
+wav-syllables/men1.wav,men,1,high level,true
+wav-syllables/men2.wav,men,2,rising,true
+wav-syllables/men3.wav,men,3,low dipping (half),true
+wav-syllables/men4.wav,men,4,falling,true
+wav-syllables/men5.wav,men,5,neutral,true
+wav-syllables/men6.wav,men,6,neutral (high),true
+wav-syllables/meng1.wav,meng,1,high level,true
+wav-syllables/meng2.wav,meng,2,rising,true
+wav-syllables/meng3.wav,meng,3,low dipping (half),true
+wav-syllables/meng4.wav,meng,4,falling,true
+wav-syllables/meng5.wav,meng,5,neutral,true
+wav-syllables/meng6.wav,meng,6,neutral (high),true
+wav-syllables/mi1.wav,mi,1,high level,true
+wav-syllables/mi2.wav,mi,2,rising,true
+wav-syllables/mi3.wav,mi,3,low dipping (half),true
+wav-syllables/mi4.wav,mi,4,falling,true
+wav-syllables/mi5.wav,mi,5,neutral,true
+wav-syllables/mi6.wav,mi,6,neutral (high),true
+wav-syllables/mian1.wav,mian,1,high level,true
+wav-syllables/mian2.wav,mian,2,rising,true
+wav-syllables/mian3.wav,mian,3,low dipping (half),true
+wav-syllables/mian4.wav,mian,4,falling,true
+wav-syllables/mian5.wav,mian,5,neutral,true
+wav-syllables/mian6.wav,mian,6,neutral (high),true
+wav-syllables/miao1.wav,miao,1,high level,true
+wav-syllables/miao2.wav,miao,2,rising,true
+wav-syllables/miao3.wav,miao,3,low dipping (half),true
+wav-syllables/miao4.wav,miao,4,falling,true
+wav-syllables/miao5.wav,miao,5,neutral,true
+wav-syllables/miao6.wav,miao,6,neutral (high),true
+wav-syllables/mie1.wav,mie,1,high level,true
+wav-syllables/mie2.wav,mie,2,rising,true
+wav-syllables/mie3.wav,mie,3,low dipping (half),true
+wav-syllables/mie4.wav,mie,4,falling,true
+wav-syllables/mie5.wav,mie,5,neutral,true
+wav-syllables/mie6.wav,mie,6,neutral (high),true
+wav-syllables/min1.wav,min,1,high level,true
+wav-syllables/min2.wav,min,2,rising,true
+wav-syllables/min3.wav,min,3,low dipping (half),true
+wav-syllables/min4.wav,min,4,falling,true
+wav-syllables/min5.wav,min,5,neutral,true
+wav-syllables/min6.wav,min,6,neutral (high),true
+wav-syllables/ming1.wav,ming,1,high level,true
+wav-syllables/ming2.wav,ming,2,rising,true
+wav-syllables/ming3.wav,ming,3,low dipping (half),true
+wav-syllables/ming4.wav,ming,4,falling,true
+wav-syllables/ming5.wav,ming,5,neutral,true
+wav-syllables/ming6.wav,ming,6,neutral (high),true
+wav-syllables/miu1.wav,miu,1,high level,true
+wav-syllables/miu2.wav,miu,2,rising,true
+wav-syllables/miu3.wav,miu,3,low dipping (half),true
+wav-syllables/miu4.wav,miu,4,falling,true
+wav-syllables/miu5.wav,miu,5,neutral,true
+wav-syllables/miu6.wav,miu,6,neutral (high),true
+wav-syllables/mo1.wav,mo,1,high level,true
+wav-syllables/mo2.wav,mo,2,rising,true
+wav-syllables/mo3.wav,mo,3,low dipping (half),true
+wav-syllables/mo4.wav,mo,4,falling,true
+wav-syllables/mo5.wav,mo,5,neutral,true
+wav-syllables/mo6.wav,mo,6,neutral (high),true
+wav-syllables/mou1.wav,mou,1,high level,true
+wav-syllables/mou2.wav,mou,2,rising,true
+wav-syllables/mou3.wav,mou,3,low dipping (half),true
+wav-syllables/mou4.wav,mou,4,falling,true
+wav-syllables/mou5.wav,mou,5,neutral,true
+wav-syllables/mou6.wav,mou,6,neutral (high),true
+wav-syllables/mu1.wav,mu,1,high level,true
+wav-syllables/mu2.wav,mu,2,rising,true
+wav-syllables/mu3.wav,mu,3,low dipping (half),true
+wav-syllables/mu4.wav,mu,4,falling,true
+wav-syllables/mu5.wav,mu,5,neutral,true
+wav-syllables/mu6.wav,mu,6,neutral (high),true
+wav-syllables/na1.wav,na,1,high level,true
+wav-syllables/na2.wav,na,2,rising,true
+wav-syllables/na3.wav,na,3,low dipping (half),true
+wav-syllables/na4.wav,na,4,falling,true
+wav-syllables/na5.wav,na,5,neutral,true
+wav-syllables/na6.wav,na,6,neutral (high),true
+wav-syllables/nai1.wav,nai,1,high level,true
+wav-syllables/nai2.wav,nai,2,rising,true
+wav-syllables/nai3.wav,nai,3,low dipping (half),true
+wav-syllables/nai4.wav,nai,4,falling,true
+wav-syllables/nai5.wav,nai,5,neutral,true
+wav-syllables/nai6.wav,nai,6,neutral (high),true
+wav-syllables/nan1.wav,nan,1,high level,true
+wav-syllables/nan2.wav,nan,2,rising,true
+wav-syllables/nan3.wav,nan,3,low dipping (half),true
+wav-syllables/nan4.wav,nan,4,falling,true
+wav-syllables/nan5.wav,nan,5,neutral,true
+wav-syllables/nan6.wav,nan,6,neutral (high),true
+wav-syllables/nang1.wav,nang,1,high level,true
+wav-syllables/nang2.wav,nang,2,rising,true
+wav-syllables/nang3.wav,nang,3,low dipping (half),true
+wav-syllables/nang4.wav,nang,4,falling,true
+wav-syllables/nang5.wav,nang,5,neutral,true
+wav-syllables/nang6.wav,nang,6,neutral (high),true
+wav-syllables/nao1.wav,nao,1,high level,true
+wav-syllables/nao2.wav,nao,2,rising,true
+wav-syllables/nao3.wav,nao,3,low dipping (half),true
+wav-syllables/nao4.wav,nao,4,falling,true
+wav-syllables/nao5.wav,nao,5,neutral,true
+wav-syllables/nao6.wav,nao,6,neutral (high),true
+wav-syllables/ne1.wav,ne,1,high level,true
+wav-syllables/ne2.wav,ne,2,rising,true
+wav-syllables/ne3.wav,ne,3,low dipping (half),true
+wav-syllables/ne4.wav,ne,4,falling,true
+wav-syllables/ne5.wav,ne,5,neutral,true
+wav-syllables/ne6.wav,ne,6,neutral (high),true
+wav-syllables/nei1.wav,nei,1,high level,true
+wav-syllables/nei2.wav,nei,2,rising,true
+wav-syllables/nei3.wav,nei,3,low dipping (half),true
+wav-syllables/nei4.wav,nei,4,falling,true
+wav-syllables/nei5.wav,nei,5,neutral,true
+wav-syllables/nei6.wav,nei,6,neutral (high),true
+wav-syllables/nen1.wav,nen,1,high level,true
+wav-syllables/nen2.wav,nen,2,rising,true
+wav-syllables/nen3.wav,nen,3,low dipping (half),true
+wav-syllables/nen4.wav,nen,4,falling,true
+wav-syllables/nen5.wav,nen,5,neutral,true
+wav-syllables/nen6.wav,nen,6,neutral (high),true
+wav-syllables/neng1.wav,neng,1,high level,true
+wav-syllables/neng2.wav,neng,2,rising,true
+wav-syllables/neng3.wav,neng,3,low dipping (half),true
+wav-syllables/neng4.wav,neng,4,falling,true
+wav-syllables/neng5.wav,neng,5,neutral,true
+wav-syllables/neng6.wav,neng,6,neutral (high),true
+wav-syllables/ng1.wav,ng,1,high level,true
+wav-syllables/ng2.wav,ng,2,rising,true
+wav-syllables/ng3.wav,ng,3,low dipping (half),true
+wav-syllables/ng4.wav,ng,4,falling,true
+wav-syllables/ng5.wav,ng,5,neutral,true
+wav-syllables/ng6.wav,ng,6,neutral (high),true
+wav-syllables/ni1.wav,ni,1,high level,true
+wav-syllables/ni2.wav,ni,2,rising,true
+wav-syllables/ni3.wav,ni,3,low dipping (half),true
+wav-syllables/ni4.wav,ni,4,falling,true
+wav-syllables/ni5.wav,ni,5,neutral,true
+wav-syllables/ni6.wav,ni,6,neutral (high),true
+wav-syllables/nia1.wav,nia,1,high level,true
+wav-syllables/nia2.wav,nia,2,rising,true
+wav-syllables/nia3.wav,nia,3,low dipping (half),true
+wav-syllables/nia4.wav,nia,4,falling,true
+wav-syllables/nia5.wav,nia,5,neutral,true
+wav-syllables/nia6.wav,nia,6,neutral (high),true
+wav-syllables/nian1.wav,nian,1,high level,true
+wav-syllables/nian2.wav,nian,2,rising,true
+wav-syllables/nian3.wav,nian,3,low dipping (half),true
+wav-syllables/nian4.wav,nian,4,falling,true
+wav-syllables/nian5.wav,nian,5,neutral,true
+wav-syllables/nian6.wav,nian,6,neutral (high),true
+wav-syllables/niang1.wav,niang,1,high level,true
+wav-syllables/niang2.wav,niang,2,rising,true
+wav-syllables/niang3.wav,niang,3,low dipping (half),true
+wav-syllables/niang4.wav,niang,4,falling,true
+wav-syllables/niang5.wav,niang,5,neutral,true
+wav-syllables/niang6.wav,niang,6,neutral (high),true
+wav-syllables/niao1.wav,niao,1,high level,true
+wav-syllables/niao2.wav,niao,2,rising,true
+wav-syllables/niao3.wav,niao,3,low dipping (half),true
+wav-syllables/niao4.wav,niao,4,falling,true
+wav-syllables/niao5.wav,niao,5,neutral,true
+wav-syllables/niao6.wav,niao,6,neutral (high),true
+wav-syllables/nie1.wav,nie,1,high level,true
+wav-syllables/nie2.wav,nie,2,rising,true
+wav-syllables/nie3.wav,nie,3,low dipping (half),true
+wav-syllables/nie4.wav,nie,4,falling,true
+wav-syllables/nie5.wav,nie,5,neutral,true
+wav-syllables/nie6.wav,nie,6,neutral (high),true
+wav-syllables/nin1.wav,nin,1,high level,true
+wav-syllables/nin2.wav,nin,2,rising,true
+wav-syllables/nin3.wav,nin,3,low dipping (half),true
+wav-syllables/nin4.wav,nin,4,falling,true
+wav-syllables/nin5.wav,nin,5,neutral,true
+wav-syllables/nin6.wav,nin,6,neutral (high),true
+wav-syllables/ning1.wav,ning,1,high level,true
+wav-syllables/ning2.wav,ning,2,rising,true
+wav-syllables/ning3.wav,ning,3,low dipping (half),true
+wav-syllables/ning4.wav,ning,4,falling,true
+wav-syllables/ning5.wav,ning,5,neutral,true
+wav-syllables/ning6.wav,ning,6,neutral (high),true
+wav-syllables/niu1.wav,niu,1,high level,true
+wav-syllables/niu2.wav,niu,2,rising,true
+wav-syllables/niu3.wav,niu,3,low dipping (half),true
+wav-syllables/niu4.wav,niu,4,falling,true
+wav-syllables/niu5.wav,niu,5,neutral,true
+wav-syllables/niu6.wav,niu,6,neutral (high),true
+wav-syllables/nong1.wav,nong,1,high level,true
+wav-syllables/nong2.wav,nong,2,rising,true
+wav-syllables/nong3.wav,nong,3,low dipping (half),true
+wav-syllables/nong4.wav,nong,4,falling,true
+wav-syllables/nong5.wav,nong,5,neutral,true
+wav-syllables/nong6.wav,nong,6,neutral (high),true
+wav-syllables/nou1.wav,nou,1,high level,true
+wav-syllables/nou2.wav,nou,2,rising,true
+wav-syllables/nou3.wav,nou,3,low dipping (half),true
+wav-syllables/nou4.wav,nou,4,falling,true
+wav-syllables/nou5.wav,nou,5,neutral,true
+wav-syllables/nou6.wav,nou,6,neutral (high),true
+wav-syllables/nu1.wav,nu,1,high level,true
+wav-syllables/nu2.wav,nu,2,rising,true
+wav-syllables/nu3.wav,nu,3,low dipping (half),true
+wav-syllables/nu4.wav,nu,4,falling,true
+wav-syllables/nu5.wav,nu,5,neutral,true
+wav-syllables/nu6.wav,nu,6,neutral (high),true
+wav-syllables/nuan1.wav,nuan,1,high level,true
+wav-syllables/nuan2.wav,nuan,2,rising,true
+wav-syllables/nuan3.wav,nuan,3,low dipping (half),true
+wav-syllables/nuan4.wav,nuan,4,falling,true
+wav-syllables/nuan5.wav,nuan,5,neutral,true
+wav-syllables/nuan6.wav,nuan,6,neutral (high),true
+wav-syllables/nuo1.wav,nuo,1,high level,true
+wav-syllables/nuo2.wav,nuo,2,rising,true
+wav-syllables/nuo3.wav,nuo,3,low dipping (half),true
+wav-syllables/nuo4.wav,nuo,4,falling,true
+wav-syllables/nuo5.wav,nuo,5,neutral,true
+wav-syllables/nuo6.wav,nuo,6,neutral (high),true
+wav-syllables/nv1.wav,nv,1,high level,true
+wav-syllables/nv2.wav,nv,2,rising,true
+wav-syllables/nv3.wav,nv,3,low dipping (half),true
+wav-syllables/nv4.wav,nv,4,falling,true
+wav-syllables/nv5.wav,nv,5,neutral,true
+wav-syllables/nv6.wav,nv,6,neutral (high),true
+wav-syllables/nve1.wav,nve,1,high level,true
+wav-syllables/nve2.wav,nve,2,rising,true
+wav-syllables/nve3.wav,nve,3,low dipping (half),true
+wav-syllables/nve4.wav,nve,4,falling,true
+wav-syllables/nve5.wav,nve,5,neutral,true
+wav-syllables/nve6.wav,nve,6,neutral (high),true
+wav-syllables/o1.wav,o,1,high level,true
+wav-syllables/o2.wav,o,2,rising,true
+wav-syllables/o3.wav,o,3,low dipping (half),true
+wav-syllables/o4.wav,o,4,falling,true
+wav-syllables/o5.wav,o,5,neutral,true
+wav-syllables/o6.wav,o,6,neutral (high),true
+wav-syllables/ou1.wav,ou,1,high level,true
+wav-syllables/ou2.wav,ou,2,rising,true
+wav-syllables/ou3.wav,ou,3,low dipping (half),true
+wav-syllables/ou4.wav,ou,4,falling,true
+wav-syllables/ou5.wav,ou,5,neutral,true
+wav-syllables/ou6.wav,ou,6,neutral (high),true
+wav-syllables/pa1.wav,pa,1,high level,true
+wav-syllables/pa2.wav,pa,2,rising,true
+wav-syllables/pa3.wav,pa,3,low dipping (half),true
+wav-syllables/pa4.wav,pa,4,falling,true
+wav-syllables/pa5.wav,pa,5,neutral,true
+wav-syllables/pa6.wav,pa,6,neutral (high),true
+wav-syllables/pai1.wav,pai,1,high level,true
+wav-syllables/pai2.wav,pai,2,rising,true
+wav-syllables/pai3.wav,pai,3,low dipping (half),true
+wav-syllables/pai4.wav,pai,4,falling,true
+wav-syllables/pai5.wav,pai,5,neutral,true
+wav-syllables/pai6.wav,pai,6,neutral (high),true
+wav-syllables/pan1.wav,pan,1,high level,true
+wav-syllables/pan2.wav,pan,2,rising,true
+wav-syllables/pan3.wav,pan,3,low dipping (half),true
+wav-syllables/pan4.wav,pan,4,falling,true
+wav-syllables/pan5.wav,pan,5,neutral,true
+wav-syllables/pan6.wav,pan,6,neutral (high),true
+wav-syllables/pang1.wav,pang,1,high level,true
+wav-syllables/pang2.wav,pang,2,rising,true
+wav-syllables/pang3.wav,pang,3,low dipping (half),true
+wav-syllables/pang4.wav,pang,4,falling,true
+wav-syllables/pang5.wav,pang,5,neutral,true
+wav-syllables/pang6.wav,pang,6,neutral (high),true
+wav-syllables/pao1.wav,pao,1,high level,true
+wav-syllables/pao2.wav,pao,2,rising,true
+wav-syllables/pao3.wav,pao,3,low dipping (half),true
+wav-syllables/pao4.wav,pao,4,falling,true
+wav-syllables/pao5.wav,pao,5,neutral,true
+wav-syllables/pao6.wav,pao,6,neutral (high),true
+wav-syllables/pei1.wav,pei,1,high level,true
+wav-syllables/pei2.wav,pei,2,rising,true
+wav-syllables/pei3.wav,pei,3,low dipping (half),true
+wav-syllables/pei4.wav,pei,4,falling,true
+wav-syllables/pei5.wav,pei,5,neutral,true
+wav-syllables/pei6.wav,pei,6,neutral (high),true
+wav-syllables/pen1.wav,pen,1,high level,true
+wav-syllables/pen2.wav,pen,2,rising,true
+wav-syllables/pen3.wav,pen,3,low dipping (half),true
+wav-syllables/pen4.wav,pen,4,falling,true
+wav-syllables/pen5.wav,pen,5,neutral,true
+wav-syllables/pen6.wav,pen,6,neutral (high),true
+wav-syllables/peng1.wav,peng,1,high level,true
+wav-syllables/peng2.wav,peng,2,rising,true
+wav-syllables/peng3.wav,peng,3,low dipping (half),true
+wav-syllables/peng4.wav,peng,4,falling,true
+wav-syllables/peng5.wav,peng,5,neutral,true
+wav-syllables/peng6.wav,peng,6,neutral (high),true
+wav-syllables/pi1.wav,pi,1,high level,true
+wav-syllables/pi2.wav,pi,2,rising,true
+wav-syllables/pi3.wav,pi,3,low dipping (half),true
+wav-syllables/pi4.wav,pi,4,falling,true
+wav-syllables/pi5.wav,pi,5,neutral,true
+wav-syllables/pi6.wav,pi,6,neutral (high),true
+wav-syllables/pian1.wav,pian,1,high level,true
+wav-syllables/pian2.wav,pian,2,rising,true
+wav-syllables/pian3.wav,pian,3,low dipping (half),true
+wav-syllables/pian4.wav,pian,4,falling,true
+wav-syllables/pian5.wav,pian,5,neutral,true
+wav-syllables/pian6.wav,pian,6,neutral (high),true
+wav-syllables/piao1.wav,piao,1,high level,true
+wav-syllables/piao2.wav,piao,2,rising,true
+wav-syllables/piao3.wav,piao,3,low dipping (half),true
+wav-syllables/piao4.wav,piao,4,falling,true
+wav-syllables/piao5.wav,piao,5,neutral,true
+wav-syllables/piao6.wav,piao,6,neutral (high),true
+wav-syllables/pie1.wav,pie,1,high level,true
+wav-syllables/pie2.wav,pie,2,rising,true
+wav-syllables/pie3.wav,pie,3,low dipping (half),true
+wav-syllables/pie4.wav,pie,4,falling,true
+wav-syllables/pie5.wav,pie,5,neutral,true
+wav-syllables/pie6.wav,pie,6,neutral (high),true
+wav-syllables/pin1.wav,pin,1,high level,true
+wav-syllables/pin2.wav,pin,2,rising,true
+wav-syllables/pin3.wav,pin,3,low dipping (half),true
+wav-syllables/pin4.wav,pin,4,falling,true
+wav-syllables/pin5.wav,pin,5,neutral,true
+wav-syllables/pin6.wav,pin,6,neutral (high),true
+wav-syllables/ping1.wav,ping,1,high level,true
+wav-syllables/ping2.wav,ping,2,rising,true
+wav-syllables/ping3.wav,ping,3,low dipping (half),true
+wav-syllables/ping4.wav,ping,4,falling,true
+wav-syllables/ping5.wav,ping,5,neutral,true
+wav-syllables/ping6.wav,ping,6,neutral (high),true
+wav-syllables/po1.wav,po,1,high level,true
+wav-syllables/po2.wav,po,2,rising,true
+wav-syllables/po3.wav,po,3,low dipping (half),true
+wav-syllables/po4.wav,po,4,falling,true
+wav-syllables/po5.wav,po,5,neutral,true
+wav-syllables/po6.wav,po,6,neutral (high),true
+wav-syllables/pou1.wav,pou,1,high level,true
+wav-syllables/pou2.wav,pou,2,rising,true
+wav-syllables/pou3.wav,pou,3,low dipping (half),true
+wav-syllables/pou4.wav,pou,4,falling,true
+wav-syllables/pou5.wav,pou,5,neutral,true
+wav-syllables/pou6.wav,pou,6,neutral (high),true
+wav-syllables/pu1.wav,pu,1,high level,true
+wav-syllables/pu2.wav,pu,2,rising,true
+wav-syllables/pu3.wav,pu,3,low dipping (half),true
+wav-syllables/pu4.wav,pu,4,falling,true
+wav-syllables/pu5.wav,pu,5,neutral,true
+wav-syllables/pu6.wav,pu,6,neutral (high),true
+wav-syllables/qi1.wav,qi,1,high level,true
+wav-syllables/qi2.wav,qi,2,rising,true
+wav-syllables/qi3.wav,qi,3,low dipping (half),true
+wav-syllables/qi4.wav,qi,4,falling,true
+wav-syllables/qi5.wav,qi,5,neutral,true
+wav-syllables/qi6.wav,qi,6,neutral (high),true
+wav-syllables/qia1.wav,qia,1,high level,true
+wav-syllables/qia2.wav,qia,2,rising,true
+wav-syllables/qia3.wav,qia,3,low dipping (half),true
+wav-syllables/qia4.wav,qia,4,falling,true
+wav-syllables/qia5.wav,qia,5,neutral,true
+wav-syllables/qia6.wav,qia,6,neutral (high),true
+wav-syllables/qian1.wav,qian,1,high level,true
+wav-syllables/qian2.wav,qian,2,rising,true
+wav-syllables/qian3.wav,qian,3,low dipping (half),true
+wav-syllables/qian4.wav,qian,4,falling,true
+wav-syllables/qian5.wav,qian,5,neutral,true
+wav-syllables/qian6.wav,qian,6,neutral (high),true
+wav-syllables/qiang1.wav,qiang,1,high level,true
+wav-syllables/qiang2.wav,qiang,2,rising,true
+wav-syllables/qiang3.wav,qiang,3,low dipping (half),true
+wav-syllables/qiang4.wav,qiang,4,falling,true
+wav-syllables/qiang5.wav,qiang,5,neutral,true
+wav-syllables/qiang6.wav,qiang,6,neutral (high),true
+wav-syllables/qiao1.wav,qiao,1,high level,true
+wav-syllables/qiao2.wav,qiao,2,rising,true
+wav-syllables/qiao3.wav,qiao,3,low dipping (half),true
+wav-syllables/qiao4.wav,qiao,4,falling,true
+wav-syllables/qiao5.wav,qiao,5,neutral,true
+wav-syllables/qiao6.wav,qiao,6,neutral (high),true
+wav-syllables/qie1.wav,qie,1,high level,true
+wav-syllables/qie2.wav,qie,2,rising,true
+wav-syllables/qie3.wav,qie,3,low dipping (half),true
+wav-syllables/qie4.wav,qie,4,falling,true
+wav-syllables/qie5.wav,qie,5,neutral,true
+wav-syllables/qie6.wav,qie,6,neutral (high),true
+wav-syllables/qin1.wav,qin,1,high level,true
+wav-syllables/qin2.wav,qin,2,rising,true
+wav-syllables/qin3.wav,qin,3,low dipping (half),true
+wav-syllables/qin4.wav,qin,4,falling,true
+wav-syllables/qin5.wav,qin,5,neutral,true
+wav-syllables/qin6.wav,qin,6,neutral (high),true
+wav-syllables/qing1.wav,qing,1,high level,true
+wav-syllables/qing2.wav,qing,2,rising,true
+wav-syllables/qing3.wav,qing,3,low dipping (half),true
+wav-syllables/qing4.wav,qing,4,falling,true
+wav-syllables/qing5.wav,qing,5,neutral,true
+wav-syllables/qing6.wav,qing,6,neutral (high),true
+wav-syllables/qiong1.wav,qiong,1,high level,true
+wav-syllables/qiong2.wav,qiong,2,rising,true
+wav-syllables/qiong3.wav,qiong,3,low dipping (half),true
+wav-syllables/qiong4.wav,qiong,4,falling,true
+wav-syllables/qiong5.wav,qiong,5,neutral,true
+wav-syllables/qiong6.wav,qiong,6,neutral (high),true
+wav-syllables/qiu1.wav,qiu,1,high level,true
+wav-syllables/qiu2.wav,qiu,2,rising,true
+wav-syllables/qiu3.wav,qiu,3,low dipping (half),true
+wav-syllables/qiu4.wav,qiu,4,falling,true
+wav-syllables/qiu5.wav,qiu,5,neutral,true
+wav-syllables/qiu6.wav,qiu,6,neutral (high),true
+wav-syllables/qu1.wav,qu,1,high level,true
+wav-syllables/qu2.wav,qu,2,rising,true
+wav-syllables/qu3.wav,qu,3,low dipping (half),true
+wav-syllables/qu4.wav,qu,4,falling,true
+wav-syllables/qu5.wav,qu,5,neutral,true
+wav-syllables/qu6.wav,qu,6,neutral (high),true
+wav-syllables/quan1.wav,quan,1,high level,true
+wav-syllables/quan2.wav,quan,2,rising,true
+wav-syllables/quan3.wav,quan,3,low dipping (half),true
+wav-syllables/quan4.wav,quan,4,falling,true
+wav-syllables/quan5.wav,quan,5,neutral,true
+wav-syllables/quan6.wav,quan,6,neutral (high),true
+wav-syllables/que1.wav,que,1,high level,true
+wav-syllables/que2.wav,que,2,rising,true
+wav-syllables/que3.wav,que,3,low dipping (half),true
+wav-syllables/que4.wav,que,4,falling,true
+wav-syllables/que5.wav,que,5,neutral,true
+wav-syllables/que6.wav,que,6,neutral (high),true
+wav-syllables/qun1.wav,qun,1,high level,true
+wav-syllables/qun2.wav,qun,2,rising,true
+wav-syllables/qun3.wav,qun,3,low dipping (half),true
+wav-syllables/qun4.wav,qun,4,falling,true
+wav-syllables/qun5.wav,qun,5,neutral,true
+wav-syllables/qun6.wav,qun,6,neutral (high),true
+wav-syllables/r5.wav,r,5,neutral,true
+wav-syllables/ran1.wav,ran,1,high level,true
+wav-syllables/ran2.wav,ran,2,rising,true
+wav-syllables/ran3.wav,ran,3,low dipping (half),true
+wav-syllables/ran4.wav,ran,4,falling,true
+wav-syllables/ran5.wav,ran,5,neutral,true
+wav-syllables/ran6.wav,ran,6,neutral (high),true
+wav-syllables/rang1.wav,rang,1,high level,true
+wav-syllables/rang2.wav,rang,2,rising,true
+wav-syllables/rang3.wav,rang,3,low dipping (half),true
+wav-syllables/rang4.wav,rang,4,falling,true
+wav-syllables/rang5.wav,rang,5,neutral,true
+wav-syllables/rang6.wav,rang,6,neutral (high),true
+wav-syllables/rao1.wav,rao,1,high level,true
+wav-syllables/rao2.wav,rao,2,rising,true
+wav-syllables/rao3.wav,rao,3,low dipping (half),true
+wav-syllables/rao4.wav,rao,4,falling,true
+wav-syllables/rao5.wav,rao,5,neutral,true
+wav-syllables/rao6.wav,rao,6,neutral (high),true
+wav-syllables/re1.wav,re,1,high level,true
+wav-syllables/re2.wav,re,2,rising,true
+wav-syllables/re3.wav,re,3,low dipping (half),true
+wav-syllables/re4.wav,re,4,falling,true
+wav-syllables/re5.wav,re,5,neutral,true
+wav-syllables/re6.wav,re,6,neutral (high),true
+wav-syllables/ren1.wav,ren,1,high level,true
+wav-syllables/ren2.wav,ren,2,rising,true
+wav-syllables/ren3.wav,ren,3,low dipping (half),true
+wav-syllables/ren4.wav,ren,4,falling,true
+wav-syllables/ren5.wav,ren,5,neutral,true
+wav-syllables/ren6.wav,ren,6,neutral (high),true
+wav-syllables/reng1.wav,reng,1,high level,true
+wav-syllables/reng2.wav,reng,2,rising,true
+wav-syllables/reng3.wav,reng,3,low dipping (half),true
+wav-syllables/reng4.wav,reng,4,falling,true
+wav-syllables/reng5.wav,reng,5,neutral,true
+wav-syllables/reng6.wav,reng,6,neutral (high),true
+wav-syllables/ri1.wav,ri,1,high level,true
+wav-syllables/ri2.wav,ri,2,rising,true
+wav-syllables/ri3.wav,ri,3,low dipping (half),true
+wav-syllables/ri4.wav,ri,4,falling,true
+wav-syllables/ri5.wav,ri,5,neutral,true
+wav-syllables/ri6.wav,ri,6,neutral (high),true
+wav-syllables/rong1.wav,rong,1,high level,true
+wav-syllables/rong2.wav,rong,2,rising,true
+wav-syllables/rong3.wav,rong,3,low dipping (half),true
+wav-syllables/rong4.wav,rong,4,falling,true
+wav-syllables/rong5.wav,rong,5,neutral,true
+wav-syllables/rong6.wav,rong,6,neutral (high),true
+wav-syllables/rou1.wav,rou,1,high level,true
+wav-syllables/rou2.wav,rou,2,rising,true
+wav-syllables/rou3.wav,rou,3,low dipping (half),true
+wav-syllables/rou4.wav,rou,4,falling,true
+wav-syllables/rou5.wav,rou,5,neutral,true
+wav-syllables/rou6.wav,rou,6,neutral (high),true
+wav-syllables/ru1.wav,ru,1,high level,true
+wav-syllables/ru2.wav,ru,2,rising,true
+wav-syllables/ru3.wav,ru,3,low dipping (half),true
+wav-syllables/ru4.wav,ru,4,falling,true
+wav-syllables/ru5.wav,ru,5,neutral,true
+wav-syllables/ru6.wav,ru,6,neutral (high),true
+wav-syllables/rua1.wav,rua,1,high level,true
+wav-syllables/rua2.wav,rua,2,rising,true
+wav-syllables/rua3.wav,rua,3,low dipping (half),true
+wav-syllables/rua4.wav,rua,4,falling,true
+wav-syllables/rua5.wav,rua,5,neutral,true
+wav-syllables/rua6.wav,rua,6,neutral (high),true
+wav-syllables/ruan1.wav,ruan,1,high level,true
+wav-syllables/ruan2.wav,ruan,2,rising,true
+wav-syllables/ruan3.wav,ruan,3,low dipping (half),true
+wav-syllables/ruan4.wav,ruan,4,falling,true
+wav-syllables/ruan5.wav,ruan,5,neutral,true
+wav-syllables/ruan6.wav,ruan,6,neutral (high),true
+wav-syllables/rui1.wav,rui,1,high level,true
+wav-syllables/rui2.wav,rui,2,rising,true
+wav-syllables/rui3.wav,rui,3,low dipping (half),true
+wav-syllables/rui4.wav,rui,4,falling,true
+wav-syllables/rui5.wav,rui,5,neutral,true
+wav-syllables/rui6.wav,rui,6,neutral (high),true
+wav-syllables/run1.wav,run,1,high level,true
+wav-syllables/run2.wav,run,2,rising,true
+wav-syllables/run3.wav,run,3,low dipping (half),true
+wav-syllables/run4.wav,run,4,falling,true
+wav-syllables/run5.wav,run,5,neutral,true
+wav-syllables/run6.wav,run,6,neutral (high),true
+wav-syllables/ruo1.wav,ruo,1,high level,true
+wav-syllables/ruo2.wav,ruo,2,rising,true
+wav-syllables/ruo3.wav,ruo,3,low dipping (half),true
+wav-syllables/ruo4.wav,ruo,4,falling,true
+wav-syllables/ruo5.wav,ruo,5,neutral,true
+wav-syllables/ruo6.wav,ruo,6,neutral (high),true
+wav-syllables/sa1.wav,sa,1,high level,true
+wav-syllables/sa2.wav,sa,2,rising,true
+wav-syllables/sa3.wav,sa,3,low dipping (half),true
+wav-syllables/sa4.wav,sa,4,falling,true
+wav-syllables/sa5.wav,sa,5,neutral,true
+wav-syllables/sa6.wav,sa,6,neutral (high),true
+wav-syllables/sai1.wav,sai,1,high level,true
+wav-syllables/sai2.wav,sai,2,rising,true
+wav-syllables/sai3.wav,sai,3,low dipping (half),true
+wav-syllables/sai4.wav,sai,4,falling,true
+wav-syllables/sai5.wav,sai,5,neutral,true
+wav-syllables/sai6.wav,sai,6,neutral (high),true
+wav-syllables/san1.wav,san,1,high level,true
+wav-syllables/san2.wav,san,2,rising,true
+wav-syllables/san3.wav,san,3,low dipping (half),true
+wav-syllables/san4.wav,san,4,falling,true
+wav-syllables/san5.wav,san,5,neutral,true
+wav-syllables/san6.wav,san,6,neutral (high),true
+wav-syllables/sang1.wav,sang,1,high level,true
+wav-syllables/sang2.wav,sang,2,rising,true
+wav-syllables/sang3.wav,sang,3,low dipping (half),true
+wav-syllables/sang4.wav,sang,4,falling,true
+wav-syllables/sang5.wav,sang,5,neutral,true
+wav-syllables/sang6.wav,sang,6,neutral (high),true
+wav-syllables/sao1.wav,sao,1,high level,true
+wav-syllables/sao2.wav,sao,2,rising,true
+wav-syllables/sao3.wav,sao,3,low dipping (half),true
+wav-syllables/sao4.wav,sao,4,falling,true
+wav-syllables/sao5.wav,sao,5,neutral,true
+wav-syllables/sao6.wav,sao,6,neutral (high),true
+wav-syllables/se1.wav,se,1,high level,true
+wav-syllables/se2.wav,se,2,rising,true
+wav-syllables/se3.wav,se,3,low dipping (half),true
+wav-syllables/se4.wav,se,4,falling,true
+wav-syllables/se5.wav,se,5,neutral,true
+wav-syllables/se6.wav,se,6,neutral (high),true
+wav-syllables/sen1.wav,sen,1,high level,true
+wav-syllables/sen2.wav,sen,2,rising,true
+wav-syllables/sen3.wav,sen,3,low dipping (half),true
+wav-syllables/sen4.wav,sen,4,falling,true
+wav-syllables/sen5.wav,sen,5,neutral,true
+wav-syllables/sen6.wav,sen,6,neutral (high),true
+wav-syllables/seng1.wav,seng,1,high level,true
+wav-syllables/seng2.wav,seng,2,rising,true
+wav-syllables/seng3.wav,seng,3,low dipping (half),true
+wav-syllables/seng4.wav,seng,4,falling,true
+wav-syllables/seng5.wav,seng,5,neutral,true
+wav-syllables/seng6.wav,seng,6,neutral (high),true
+wav-syllables/sha1.wav,sha,1,high level,true
+wav-syllables/sha2.wav,sha,2,rising,true
+wav-syllables/sha3.wav,sha,3,low dipping (half),true
+wav-syllables/sha4.wav,sha,4,falling,true
+wav-syllables/sha5.wav,sha,5,neutral,true
+wav-syllables/sha6.wav,sha,6,neutral (high),true
+wav-syllables/shai1.wav,shai,1,high level,true
+wav-syllables/shai2.wav,shai,2,rising,true
+wav-syllables/shai3.wav,shai,3,low dipping (half),true
+wav-syllables/shai4.wav,shai,4,falling,true
+wav-syllables/shai5.wav,shai,5,neutral,true
+wav-syllables/shai6.wav,shai,6,neutral (high),true
+wav-syllables/shan1.wav,shan,1,high level,true
+wav-syllables/shan2.wav,shan,2,rising,true
+wav-syllables/shan3.wav,shan,3,low dipping (half),true
+wav-syllables/shan4.wav,shan,4,falling,true
+wav-syllables/shan5.wav,shan,5,neutral,true
+wav-syllables/shan6.wav,shan,6,neutral (high),true
+wav-syllables/shang1.wav,shang,1,high level,true
+wav-syllables/shang2.wav,shang,2,rising,true
+wav-syllables/shang3.wav,shang,3,low dipping (half),true
+wav-syllables/shang4.wav,shang,4,falling,true
+wav-syllables/shang5.wav,shang,5,neutral,true
+wav-syllables/shang6.wav,shang,6,neutral (high),true
+wav-syllables/shao1.wav,shao,1,high level,true
+wav-syllables/shao2.wav,shao,2,rising,true
+wav-syllables/shao3.wav,shao,3,low dipping (half),true
+wav-syllables/shao4.wav,shao,4,falling,true
+wav-syllables/shao5.wav,shao,5,neutral,true
+wav-syllables/shao6.wav,shao,6,neutral (high),true
+wav-syllables/she1.wav,she,1,high level,true
+wav-syllables/she2.wav,she,2,rising,true
+wav-syllables/she3.wav,she,3,low dipping (half),true
+wav-syllables/she4.wav,she,4,falling,true
+wav-syllables/she5.wav,she,5,neutral,true
+wav-syllables/she6.wav,she,6,neutral (high),true
+wav-syllables/shei1.wav,shei,1,high level,true
+wav-syllables/shei2.wav,shei,2,rising,true
+wav-syllables/shei3.wav,shei,3,low dipping (half),true
+wav-syllables/shei4.wav,shei,4,falling,true
+wav-syllables/shei5.wav,shei,5,neutral,true
+wav-syllables/shei6.wav,shei,6,neutral (high),true
+wav-syllables/shen1.wav,shen,1,high level,true
+wav-syllables/shen2.wav,shen,2,rising,true
+wav-syllables/shen2me5.wav,shen,25,,true
+wav-syllables/shen3.wav,shen,3,low dipping (half),true
+wav-syllables/shen4.wav,shen,4,falling,true
+wav-syllables/shen5.wav,shen,5,neutral,true
+wav-syllables/shen6.wav,shen,6,neutral (high),true
+wav-syllables/sheng1.wav,sheng,1,high level,true
+wav-syllables/sheng2.wav,sheng,2,rising,true
+wav-syllables/sheng3.wav,sheng,3,low dipping (half),true
+wav-syllables/sheng4.wav,sheng,4,falling,true
+wav-syllables/sheng5.wav,sheng,5,neutral,true
+wav-syllables/sheng6.wav,sheng,6,neutral (high),true
+wav-syllables/shi1.wav,shi,1,high level,true
+wav-syllables/shi2.wav,shi,2,rising,true
+wav-syllables/shi3.wav,shi,3,low dipping (half),true
+wav-syllables/shi4.wav,shi,4,falling,true
+wav-syllables/shi5.wav,shi,5,neutral,true
+wav-syllables/shi6.wav,shi,6,neutral (high),true
+wav-syllables/shou1.wav,shou,1,high level,true
+wav-syllables/shou2.wav,shou,2,rising,true
+wav-syllables/shou3.wav,shou,3,low dipping (half),true
+wav-syllables/shou4.wav,shou,4,falling,true
+wav-syllables/shou5.wav,shou,5,neutral,true
+wav-syllables/shou6.wav,shou,6,neutral (high),true
+wav-syllables/shu1.wav,shu,1,high level,true
+wav-syllables/shu2.wav,shu,2,rising,true
+wav-syllables/shu3.wav,shu,3,low dipping (half),true
+wav-syllables/shu4.wav,shu,4,falling,true
+wav-syllables/shu5.wav,shu,5,neutral,true
+wav-syllables/shu6.wav,shu,6,neutral (high),true
+wav-syllables/shua1.wav,shua,1,high level,true
+wav-syllables/shua2.wav,shua,2,rising,true
+wav-syllables/shua3.wav,shua,3,low dipping (half),true
+wav-syllables/shua4.wav,shua,4,falling,true
+wav-syllables/shua5.wav,shua,5,neutral,true
+wav-syllables/shua6.wav,shua,6,neutral (high),true
+wav-syllables/shuai1.wav,shuai,1,high level,true
+wav-syllables/shuai2.wav,shuai,2,rising,true
+wav-syllables/shuai3.wav,shuai,3,low dipping (half),true
+wav-syllables/shuai4.wav,shuai,4,falling,true
+wav-syllables/shuai5.wav,shuai,5,neutral,true
+wav-syllables/shuai6.wav,shuai,6,neutral (high),true
+wav-syllables/shuan1.wav,shuan,1,high level,true
+wav-syllables/shuan2.wav,shuan,2,rising,true
+wav-syllables/shuan3.wav,shuan,3,low dipping (half),true
+wav-syllables/shuan4.wav,shuan,4,falling,true
+wav-syllables/shuan5.wav,shuan,5,neutral,true
+wav-syllables/shuan6.wav,shuan,6,neutral (high),true
+wav-syllables/shuang1.wav,shuang,1,high level,true
+wav-syllables/shuang2.wav,shuang,2,rising,true
+wav-syllables/shuang3.wav,shuang,3,low dipping (half),true
+wav-syllables/shuang4.wav,shuang,4,falling,true
+wav-syllables/shuang5.wav,shuang,5,neutral,true
+wav-syllables/shuang6.wav,shuang,6,neutral (high),true
+wav-syllables/shui1.wav,shui,1,high level,true
+wav-syllables/shui2.wav,shui,2,rising,true
+wav-syllables/shui3.wav,shui,3,low dipping (half),true
+wav-syllables/shui4.wav,shui,4,falling,true
+wav-syllables/shui5.wav,shui,5,neutral,true
+wav-syllables/shui6.wav,shui,6,neutral (high),true
+wav-syllables/shun1.wav,shun,1,high level,true
+wav-syllables/shun2.wav,shun,2,rising,true
+wav-syllables/shun3.wav,shun,3,low dipping (half),true
+wav-syllables/shun4.wav,shun,4,falling,true
+wav-syllables/shun5.wav,shun,5,neutral,true
+wav-syllables/shun6.wav,shun,6,neutral (high),true
+wav-syllables/shuo1.wav,shuo,1,high level,true
+wav-syllables/shuo2.wav,shuo,2,rising,true
+wav-syllables/shuo3.wav,shuo,3,low dipping (half),true
+wav-syllables/shuo4.wav,shuo,4,falling,true
+wav-syllables/shuo5.wav,shuo,5,neutral,true
+wav-syllables/shuo6.wav,shuo,6,neutral (high),true
+wav-syllables/si1.wav,si,1,high level,true
+wav-syllables/si2.wav,si,2,rising,true
+wav-syllables/si3.wav,si,3,low dipping (half),true
+wav-syllables/si4.wav,si,4,falling,true
+wav-syllables/si5.wav,si,5,neutral,true
+wav-syllables/si6.wav,si,6,neutral (high),true
+wav-syllables/song1.wav,song,1,high level,true
+wav-syllables/song2.wav,song,2,rising,true
+wav-syllables/song3.wav,song,3,low dipping (half),true
+wav-syllables/song4.wav,song,4,falling,true
+wav-syllables/song5.wav,song,5,neutral,true
+wav-syllables/song6.wav,song,6,neutral (high),true
+wav-syllables/sou1.wav,sou,1,high level,true
+wav-syllables/sou2.wav,sou,2,rising,true
+wav-syllables/sou3.wav,sou,3,low dipping (half),true
+wav-syllables/sou4.wav,sou,4,falling,true
+wav-syllables/sou5.wav,sou,5,neutral,true
+wav-syllables/sou6.wav,sou,6,neutral (high),true
+wav-syllables/su1.wav,su,1,high level,true
+wav-syllables/su2.wav,su,2,rising,true
+wav-syllables/su3.wav,su,3,low dipping (half),true
+wav-syllables/su4.wav,su,4,falling,true
+wav-syllables/su5.wav,su,5,neutral,true
+wav-syllables/su6.wav,su,6,neutral (high),true
+wav-syllables/suan1.wav,suan,1,high level,true
+wav-syllables/suan2.wav,suan,2,rising,true
+wav-syllables/suan3.wav,suan,3,low dipping (half),true
+wav-syllables/suan4.wav,suan,4,falling,true
+wav-syllables/suan5.wav,suan,5,neutral,true
+wav-syllables/suan6.wav,suan,6,neutral (high),true
+wav-syllables/sui1.wav,sui,1,high level,true
+wav-syllables/sui2.wav,sui,2,rising,true
+wav-syllables/sui3.wav,sui,3,low dipping (half),true
+wav-syllables/sui4.wav,sui,4,falling,true
+wav-syllables/sui5.wav,sui,5,neutral,true
+wav-syllables/sui6.wav,sui,6,neutral (high),true
+wav-syllables/sun1.wav,sun,1,high level,true
+wav-syllables/sun2.wav,sun,2,rising,true
+wav-syllables/sun3.wav,sun,3,low dipping (half),true
+wav-syllables/sun4.wav,sun,4,falling,true
+wav-syllables/sun5.wav,sun,5,neutral,true
+wav-syllables/sun6.wav,sun,6,neutral (high),true
+wav-syllables/suo1.wav,suo,1,high level,true
+wav-syllables/suo2.wav,suo,2,rising,true
+wav-syllables/suo3.wav,suo,3,low dipping (half),true
+wav-syllables/suo4.wav,suo,4,falling,true
+wav-syllables/suo5.wav,suo,5,neutral,true
+wav-syllables/suo6.wav,suo,6,neutral (high),true
+wav-syllables/ta1.wav,ta,1,high level,true
+wav-syllables/ta2.wav,ta,2,rising,true
+wav-syllables/ta3.wav,ta,3,low dipping (half),true
+wav-syllables/ta4.wav,ta,4,falling,true
+wav-syllables/ta5.wav,ta,5,neutral,true
+wav-syllables/ta6.wav,ta,6,neutral (high),true
+wav-syllables/tai1.wav,tai,1,high level,true
+wav-syllables/tai2.wav,tai,2,rising,true
+wav-syllables/tai3.wav,tai,3,low dipping (half),true
+wav-syllables/tai4.wav,tai,4,falling,true
+wav-syllables/tai5.wav,tai,5,neutral,true
+wav-syllables/tai6.wav,tai,6,neutral (high),true
+wav-syllables/tan1.wav,tan,1,high level,true
+wav-syllables/tan2.wav,tan,2,rising,true
+wav-syllables/tan3.wav,tan,3,low dipping (half),true
+wav-syllables/tan4.wav,tan,4,falling,true
+wav-syllables/tan5.wav,tan,5,neutral,true
+wav-syllables/tan6.wav,tan,6,neutral (high),true
+wav-syllables/tang1.wav,tang,1,high level,true
+wav-syllables/tang2.wav,tang,2,rising,true
+wav-syllables/tang3.wav,tang,3,low dipping (half),true
+wav-syllables/tang4.wav,tang,4,falling,true
+wav-syllables/tang5.wav,tang,5,neutral,true
+wav-syllables/tang6.wav,tang,6,neutral (high),true
+wav-syllables/tao1.wav,tao,1,high level,true
+wav-syllables/tao2.wav,tao,2,rising,true
+wav-syllables/tao3.wav,tao,3,low dipping (half),true
+wav-syllables/tao4.wav,tao,4,falling,true
+wav-syllables/tao5.wav,tao,5,neutral,true
+wav-syllables/tao6.wav,tao,6,neutral (high),true
+wav-syllables/te1.wav,te,1,high level,true
+wav-syllables/te2.wav,te,2,rising,true
+wav-syllables/te3.wav,te,3,low dipping (half),true
+wav-syllables/te4.wav,te,4,falling,true
+wav-syllables/te5.wav,te,5,neutral,true
+wav-syllables/te6.wav,te,6,neutral (high),true
+wav-syllables/teng1.wav,teng,1,high level,true
+wav-syllables/teng2.wav,teng,2,rising,true
+wav-syllables/teng3.wav,teng,3,low dipping (half),true
+wav-syllables/teng4.wav,teng,4,falling,true
+wav-syllables/teng5.wav,teng,5,neutral,true
+wav-syllables/teng6.wav,teng,6,neutral (high),true
+wav-syllables/ti1.wav,ti,1,high level,true
+wav-syllables/ti2.wav,ti,2,rising,true
+wav-syllables/ti3.wav,ti,3,low dipping (half),true
+wav-syllables/ti4.wav,ti,4,falling,true
+wav-syllables/ti5.wav,ti,5,neutral,true
+wav-syllables/ti6.wav,ti,6,neutral (high),true
+wav-syllables/tian1.wav,tian,1,high level,true
+wav-syllables/tian2.wav,tian,2,rising,true
+wav-syllables/tian3.wav,tian,3,low dipping (half),true
+wav-syllables/tian4.wav,tian,4,falling,true
+wav-syllables/tian5.wav,tian,5,neutral,true
+wav-syllables/tian6.wav,tian,6,neutral (high),true
+wav-syllables/tiao1.wav,tiao,1,high level,true
+wav-syllables/tiao2.wav,tiao,2,rising,true
+wav-syllables/tiao3.wav,tiao,3,low dipping (half),true
+wav-syllables/tiao4.wav,tiao,4,falling,true
+wav-syllables/tiao5.wav,tiao,5,neutral,true
+wav-syllables/tiao6.wav,tiao,6,neutral (high),true
+wav-syllables/tie1.wav,tie,1,high level,true
+wav-syllables/tie2.wav,tie,2,rising,true
+wav-syllables/tie3.wav,tie,3,low dipping (half),true
+wav-syllables/tie4.wav,tie,4,falling,true
+wav-syllables/tie5.wav,tie,5,neutral,true
+wav-syllables/tie6.wav,tie,6,neutral (high),true
+wav-syllables/ting1.wav,ting,1,high level,true
+wav-syllables/ting2.wav,ting,2,rising,true
+wav-syllables/ting3.wav,ting,3,low dipping (half),true
+wav-syllables/ting4.wav,ting,4,falling,true
+wav-syllables/ting5.wav,ting,5,neutral,true
+wav-syllables/ting6.wav,ting,6,neutral (high),true
+wav-syllables/tong1.wav,tong,1,high level,true
+wav-syllables/tong2.wav,tong,2,rising,true
+wav-syllables/tong3.wav,tong,3,low dipping (half),true
+wav-syllables/tong4.wav,tong,4,falling,true
+wav-syllables/tong5.wav,tong,5,neutral,true
+wav-syllables/tong6.wav,tong,6,neutral (high),true
+wav-syllables/tou1.wav,tou,1,high level,true
+wav-syllables/tou2.wav,tou,2,rising,true
+wav-syllables/tou3.wav,tou,3,low dipping (half),true
+wav-syllables/tou4.wav,tou,4,falling,true
+wav-syllables/tou5.wav,tou,5,neutral,true
+wav-syllables/tou6.wav,tou,6,neutral (high),true
+wav-syllables/tu1.wav,tu,1,high level,true
+wav-syllables/tu2.wav,tu,2,rising,true
+wav-syllables/tu3.wav,tu,3,low dipping (half),true
+wav-syllables/tu4.wav,tu,4,falling,true
+wav-syllables/tu5.wav,tu,5,neutral,true
+wav-syllables/tu6.wav,tu,6,neutral (high),true
+wav-syllables/tuan1.wav,tuan,1,high level,true
+wav-syllables/tuan2.wav,tuan,2,rising,true
+wav-syllables/tuan3.wav,tuan,3,low dipping (half),true
+wav-syllables/tuan4.wav,tuan,4,falling,true
+wav-syllables/tuan5.wav,tuan,5,neutral,true
+wav-syllables/tuan6.wav,tuan,6,neutral (high),true
+wav-syllables/tui1.wav,tui,1,high level,true
+wav-syllables/tui2.wav,tui,2,rising,true
+wav-syllables/tui3.wav,tui,3,low dipping (half),true
+wav-syllables/tui4.wav,tui,4,falling,true
+wav-syllables/tui5.wav,tui,5,neutral,true
+wav-syllables/tui6.wav,tui,6,neutral (high),true
+wav-syllables/tun1.wav,tun,1,high level,true
+wav-syllables/tun2.wav,tun,2,rising,true
+wav-syllables/tun3.wav,tun,3,low dipping (half),true
+wav-syllables/tun4.wav,tun,4,falling,true
+wav-syllables/tun5.wav,tun,5,neutral,true
+wav-syllables/tun6.wav,tun,6,neutral (high),true
+wav-syllables/tuo1.wav,tuo,1,high level,true
+wav-syllables/tuo2.wav,tuo,2,rising,true
+wav-syllables/tuo3.wav,tuo,3,low dipping (half),true
+wav-syllables/tuo4.wav,tuo,4,falling,true
+wav-syllables/tuo5.wav,tuo,5,neutral,true
+wav-syllables/tuo6.wav,tuo,6,neutral (high),true
+wav-syllables/wa1.wav,wa,1,high level,true
+wav-syllables/wa2.wav,wa,2,rising,true
+wav-syllables/wa3.wav,wa,3,low dipping (half),true
+wav-syllables/wa4.wav,wa,4,falling,true
+wav-syllables/wa5.wav,wa,5,neutral,true
+wav-syllables/wa6.wav,wa,6,neutral (high),true
+wav-syllables/wai1.wav,wai,1,high level,true
+wav-syllables/wai2.wav,wai,2,rising,true
+wav-syllables/wai3.wav,wai,3,low dipping (half),true
+wav-syllables/wai4.wav,wai,4,falling,true
+wav-syllables/wai5.wav,wai,5,neutral,true
+wav-syllables/wai6.wav,wai,6,neutral (high),true
+wav-syllables/wan1.wav,wan,1,high level,true
+wav-syllables/wan2.wav,wan,2,rising,true
+wav-syllables/wan3.wav,wan,3,low dipping (half),true
+wav-syllables/wan4.wav,wan,4,falling,true
+wav-syllables/wan5.wav,wan,5,neutral,true
+wav-syllables/wan6.wav,wan,6,neutral (high),true
+wav-syllables/wang1.wav,wang,1,high level,true
+wav-syllables/wang2.wav,wang,2,rising,true
+wav-syllables/wang3.wav,wang,3,low dipping (half),true
+wav-syllables/wang4.wav,wang,4,falling,true
+wav-syllables/wang5.wav,wang,5,neutral,true
+wav-syllables/wang6.wav,wang,6,neutral (high),true
+wav-syllables/wei1.wav,wei,1,high level,true
+wav-syllables/wei2.wav,wei,2,rising,true
+wav-syllables/wei3.wav,wei,3,low dipping (half),true
+wav-syllables/wei4.wav,wei,4,falling,true
+wav-syllables/wei5.wav,wei,5,neutral,true
+wav-syllables/wei6.wav,wei,6,neutral (high),true
+wav-syllables/wen1.wav,wen,1,high level,true
+wav-syllables/wen2.wav,wen,2,rising,true
+wav-syllables/wen3.wav,wen,3,low dipping (half),true
+wav-syllables/wen4.wav,wen,4,falling,true
+wav-syllables/wen5.wav,wen,5,neutral,true
+wav-syllables/wen6.wav,wen,6,neutral (high),true
+wav-syllables/weng1.wav,weng,1,high level,true
+wav-syllables/weng2.wav,weng,2,rising,true
+wav-syllables/weng3.wav,weng,3,low dipping (half),true
+wav-syllables/weng4.wav,weng,4,falling,true
+wav-syllables/weng5.wav,weng,5,neutral,true
+wav-syllables/weng6.wav,weng,6,neutral (high),true
+wav-syllables/wo1.wav,wo,1,high level,true
+wav-syllables/wo2.wav,wo,2,rising,true
+wav-syllables/wo3.wav,wo,3,low dipping (half),true
+wav-syllables/wo4.wav,wo,4,falling,true
+wav-syllables/wo5.wav,wo,5,neutral,true
+wav-syllables/wo6.wav,wo,6,neutral (high),true
+wav-syllables/wu1.wav,wu,1,high level,true
+wav-syllables/wu2.wav,wu,2,rising,true
+wav-syllables/wu3-i.wav,wu,3,low dipping (half),true
+wav-syllables/wu3.wav,wu,3,low dipping (half),true
+wav-syllables/wu4.wav,wu,4,falling,true
+wav-syllables/wu5.wav,wu,5,neutral,true
+wav-syllables/wu6.wav,wu,6,neutral (high),true
+wav-syllables/xi1.wav,xi,1,high level,true
+wav-syllables/xi2.wav,xi,2,rising,true
+wav-syllables/xi3.wav,xi,3,low dipping (half),true
+wav-syllables/xi4.wav,xi,4,falling,true
+wav-syllables/xi5.wav,xi,5,neutral,true
+wav-syllables/xi6.wav,xi,6,neutral (high),true
+wav-syllables/xia1.wav,xia,1,high level,true
+wav-syllables/xia2.wav,xia,2,rising,true
+wav-syllables/xia3.wav,xia,3,low dipping (half),true
+wav-syllables/xia4.wav,xia,4,falling,true
+wav-syllables/xia5.wav,xia,5,neutral,true
+wav-syllables/xia6.wav,xia,6,neutral (high),true
+wav-syllables/xian1.wav,xian,1,high level,true
+wav-syllables/xian2.wav,xian,2,rising,true
+wav-syllables/xian3.wav,xian,3,low dipping (half),true
+wav-syllables/xian4.wav,xian,4,falling,true
+wav-syllables/xian5.wav,xian,5,neutral,true
+wav-syllables/xian6.wav,xian,6,neutral (high),true
+wav-syllables/xiang1.wav,xiang,1,high level,true
+wav-syllables/xiang2.wav,xiang,2,rising,true
+wav-syllables/xiang3.wav,xiang,3,low dipping (half),true
+wav-syllables/xiang4.wav,xiang,4,falling,true
+wav-syllables/xiang5.wav,xiang,5,neutral,true
+wav-syllables/xiang6.wav,xiang,6,neutral (high),true
+wav-syllables/xiao1.wav,xiao,1,high level,true
+wav-syllables/xiao2.wav,xiao,2,rising,true
+wav-syllables/xiao3.wav,xiao,3,low dipping (half),true
+wav-syllables/xiao4.wav,xiao,4,falling,true
+wav-syllables/xiao5.wav,xiao,5,neutral,true
+wav-syllables/xiao6.wav,xiao,6,neutral (high),true
+wav-syllables/xie1.wav,xie,1,high level,true
+wav-syllables/xie2.wav,xie,2,rising,true
+wav-syllables/xie3.wav,xie,3,low dipping (half),true
+wav-syllables/xie4.wav,xie,4,falling,true
+wav-syllables/xie5.wav,xie,5,neutral,true
+wav-syllables/xie6.wav,xie,6,neutral (high),true
+wav-syllables/xin1.wav,xin,1,high level,true
+wav-syllables/xin2.wav,xin,2,rising,true
+wav-syllables/xin3.wav,xin,3,low dipping (half),true
+wav-syllables/xin4.wav,xin,4,falling,true
+wav-syllables/xin5.wav,xin,5,neutral,true
+wav-syllables/xin6.wav,xin,6,neutral (high),true
+wav-syllables/xing1.wav,xing,1,high level,true
+wav-syllables/xing2.wav,xing,2,rising,true
+wav-syllables/xing3.wav,xing,3,low dipping (half),true
+wav-syllables/xing4.wav,xing,4,falling,true
+wav-syllables/xing5.wav,xing,5,neutral,true
+wav-syllables/xing6.wav,xing,6,neutral (high),true
+wav-syllables/xiong1.wav,xiong,1,high level,true
+wav-syllables/xiong2.wav,xiong,2,rising,true
+wav-syllables/xiong3.wav,xiong,3,low dipping (half),true
+wav-syllables/xiong4.wav,xiong,4,falling,true
+wav-syllables/xiong5.wav,xiong,5,neutral,true
+wav-syllables/xiong6.wav,xiong,6,neutral (high),true
+wav-syllables/xiu1.wav,xiu,1,high level,true
+wav-syllables/xiu2.wav,xiu,2,rising,true
+wav-syllables/xiu3.wav,xiu,3,low dipping (half),true
+wav-syllables/xiu4.wav,xiu,4,falling,true
+wav-syllables/xiu5.wav,xiu,5,neutral,true
+wav-syllables/xiu6.wav,xiu,6,neutral (high),true
+wav-syllables/xu1.wav,xu,1,high level,true
+wav-syllables/xu2.wav,xu,2,rising,true
+wav-syllables/xu3.wav,xu,3,low dipping (half),true
+wav-syllables/xu4.wav,xu,4,falling,true
+wav-syllables/xu5.wav,xu,5,neutral,true
+wav-syllables/xu6.wav,xu,6,neutral (high),true
+wav-syllables/xuan1.wav,xuan,1,high level,true
+wav-syllables/xuan2.wav,xuan,2,rising,true
+wav-syllables/xuan3.wav,xuan,3,low dipping (half),true
+wav-syllables/xuan4.wav,xuan,4,falling,true
+wav-syllables/xuan5.wav,xuan,5,neutral,true
+wav-syllables/xuan6.wav,xuan,6,neutral (high),true
+wav-syllables/xue1.wav,xue,1,high level,true
+wav-syllables/xue2.wav,xue,2,rising,true
+wav-syllables/xue3.wav,xue,3,low dipping (half),true
+wav-syllables/xue4.wav,xue,4,falling,true
+wav-syllables/xue5.wav,xue,5,neutral,true
+wav-syllables/xue6.wav,xue,6,neutral (high),true
+wav-syllables/xun1.wav,xun,1,high level,true
+wav-syllables/xun2.wav,xun,2,rising,true
+wav-syllables/xun3.wav,xun,3,low dipping (half),true
+wav-syllables/xun4.wav,xun,4,falling,true
+wav-syllables/xun5.wav,xun,5,neutral,true
+wav-syllables/xun6.wav,xun,6,neutral (high),true
+wav-syllables/ya1.wav,ya,1,high level,true
+wav-syllables/ya2.wav,ya,2,rising,true
+wav-syllables/ya3.wav,ya,3,low dipping (half),true
+wav-syllables/ya4.wav,ya,4,falling,true
+wav-syllables/ya5.wav,ya,5,neutral,true
+wav-syllables/ya6.wav,ya,6,neutral (high),true
+wav-syllables/yan1.wav,yan,1,high level,true
+wav-syllables/yan2.wav,yan,2,rising,true
+wav-syllables/yan3.wav,yan,3,low dipping (half),true
+wav-syllables/yan4.wav,yan,4,falling,true
+wav-syllables/yan5.wav,yan,5,neutral,true
+wav-syllables/yan6.wav,yan,6,neutral (high),true
+wav-syllables/yang1.wav,yang,1,high level,true
+wav-syllables/yang2.wav,yang,2,rising,true
+wav-syllables/yang3.wav,yang,3,low dipping (half),true
+wav-syllables/yang4.wav,yang,4,falling,true
+wav-syllables/yang5.wav,yang,5,neutral,true
+wav-syllables/yang6.wav,yang,6,neutral (high),true
+wav-syllables/yao1.wav,yao,1,high level,true
+wav-syllables/yao2.wav,yao,2,rising,true
+wav-syllables/yao3.wav,yao,3,low dipping (half),true
+wav-syllables/yao4.wav,yao,4,falling,true
+wav-syllables/yao5.wav,yao,5,neutral,true
+wav-syllables/yao6.wav,yao,6,neutral (high),true
+wav-syllables/ye1.wav,ye,1,high level,true
+wav-syllables/ye2.wav,ye,2,rising,true
+wav-syllables/ye3.wav,ye,3,low dipping (half),true
+wav-syllables/ye4.wav,ye,4,falling,true
+wav-syllables/ye5.wav,ye,5,neutral,true
+wav-syllables/ye6.wav,ye,6,neutral (high),true
+wav-syllables/yi1.wav,yi,1,high level,true
+wav-syllables/yi2.wav,yi,2,rising,true
+wav-syllables/yi3.wav,yi,3,low dipping (half),true
+wav-syllables/yi4.wav,yi,4,falling,true
+wav-syllables/yi5.wav,yi,5,neutral,true
+wav-syllables/yi6.wav,yi,6,neutral (high),true
+wav-syllables/yin1.wav,yin,1,high level,true
+wav-syllables/yin2.wav,yin,2,rising,true
+wav-syllables/yin3.wav,yin,3,low dipping (half),true
+wav-syllables/yin4.wav,yin,4,falling,true
+wav-syllables/yin5.wav,yin,5,neutral,true
+wav-syllables/yin6.wav,yin,6,neutral (high),true
+wav-syllables/ying1.wav,ying,1,high level,true
+wav-syllables/ying2.wav,ying,2,rising,true
+wav-syllables/ying3.wav,ying,3,low dipping (half),true
+wav-syllables/ying4.wav,ying,4,falling,true
+wav-syllables/ying5.wav,ying,5,neutral,true
+wav-syllables/ying6.wav,ying,6,neutral (high),true
+wav-syllables/yo1.wav,yo,1,high level,true
+wav-syllables/yo2.wav,yo,2,rising,true
+wav-syllables/yo3.wav,yo,3,low dipping (half),true
+wav-syllables/yo4.wav,yo,4,falling,true
+wav-syllables/yo5.wav,yo,5,neutral,true
+wav-syllables/yo6.wav,yo,6,neutral (high),true
+wav-syllables/yong1.wav,yong,1,high level,true
+wav-syllables/yong2.wav,yong,2,rising,true
+wav-syllables/yong3.wav,yong,3,low dipping (half),true
+wav-syllables/yong4.wav,yong,4,falling,true
+wav-syllables/yong5.wav,yong,5,neutral,true
+wav-syllables/yong6.wav,yong,6,neutral (high),true
+wav-syllables/you1.wav,you,1,high level,true
+wav-syllables/you2.wav,you,2,rising,true
+wav-syllables/you3.wav,you,3,low dipping (half),true
+wav-syllables/you4.wav,you,4,falling,true
+wav-syllables/you5.wav,you,5,neutral,true
+wav-syllables/you6.wav,you,6,neutral (high),true
+wav-syllables/yu1.wav,yu,1,high level,true
+wav-syllables/yu2.wav,yu,2,rising,true
+wav-syllables/yu3.wav,yu,3,low dipping (half),true
+wav-syllables/yu4.wav,yu,4,falling,true
+wav-syllables/yu5.wav,yu,5,neutral,true
+wav-syllables/yu6.wav,yu,6,neutral (high),true
+wav-syllables/yuan1.wav,yuan,1,high level,true
+wav-syllables/yuan2.wav,yuan,2,rising,true
+wav-syllables/yuan3.wav,yuan,3,low dipping (half),true
+wav-syllables/yuan4.wav,yuan,4,falling,true
+wav-syllables/yuan5.wav,yuan,5,neutral,true
+wav-syllables/yuan6.wav,yuan,6,neutral (high),true
+wav-syllables/yue1.wav,yue,1,high level,true
+wav-syllables/yue2.wav,yue,2,rising,true
+wav-syllables/yue3.wav,yue,3,low dipping (half),true
+wav-syllables/yue4.wav,yue,4,falling,true
+wav-syllables/yue5.wav,yue,5,neutral,true
+wav-syllables/yue6.wav,yue,6,neutral (high),true
+wav-syllables/yun1.wav,yun,1,high level,true
+wav-syllables/yun2.wav,yun,2,rising,true
+wav-syllables/yun3.wav,yun,3,low dipping (half),true
+wav-syllables/yun4.wav,yun,4,falling,true
+wav-syllables/yun5.wav,yun,5,neutral,true
+wav-syllables/yun6.wav,yun,6,neutral (high),true
+wav-syllables/za1.wav,za,1,high level,true
+wav-syllables/za2.wav,za,2,rising,true
+wav-syllables/za3.wav,za,3,low dipping (half),true
+wav-syllables/za4.wav,za,4,falling,true
+wav-syllables/za5.wav,za,5,neutral,true
+wav-syllables/za6.wav,za,6,neutral (high),true
+wav-syllables/zai1.wav,zai,1,high level,true
+wav-syllables/zai2.wav,zai,2,rising,true
+wav-syllables/zai3.wav,zai,3,low dipping (half),true
+wav-syllables/zai4.wav,zai,4,falling,true
+wav-syllables/zai5.wav,zai,5,neutral,true
+wav-syllables/zai6.wav,zai,6,neutral (high),true
+wav-syllables/zan1.wav,zan,1,high level,true
+wav-syllables/zan2.wav,zan,2,rising,true
+wav-syllables/zan3.wav,zan,3,low dipping (half),true
+wav-syllables/zan4.wav,zan,4,falling,true
+wav-syllables/zan5.wav,zan,5,neutral,true
+wav-syllables/zan6.wav,zan,6,neutral (high),true
+wav-syllables/zang1.wav,zang,1,high level,true
+wav-syllables/zang2.wav,zang,2,rising,true
+wav-syllables/zang3.wav,zang,3,low dipping (half),true
+wav-syllables/zang4.wav,zang,4,falling,true
+wav-syllables/zang5.wav,zang,5,neutral,true
+wav-syllables/zang6.wav,zang,6,neutral (high),true
+wav-syllables/zao1.wav,zao,1,high level,true
+wav-syllables/zao2.wav,zao,2,rising,true
+wav-syllables/zao3.wav,zao,3,low dipping (half),true
+wav-syllables/zao4.wav,zao,4,falling,true
+wav-syllables/zao5.wav,zao,5,neutral,true
+wav-syllables/zao6.wav,zao,6,neutral (high),true
+wav-syllables/ze1.wav,ze,1,high level,true
+wav-syllables/ze2.wav,ze,2,rising,true
+wav-syllables/ze3.wav,ze,3,low dipping (half),true
+wav-syllables/ze4.wav,ze,4,falling,true
+wav-syllables/ze5.wav,ze,5,neutral,true
+wav-syllables/ze6.wav,ze,6,neutral (high),true
+wav-syllables/zei1.wav,zei,1,high level,true
+wav-syllables/zei2.wav,zei,2,rising,true
+wav-syllables/zei3.wav,zei,3,low dipping (half),true
+wav-syllables/zei4.wav,zei,4,falling,true
+wav-syllables/zei5.wav,zei,5,neutral,true
+wav-syllables/zei6.wav,zei,6,neutral (high),true
+wav-syllables/zen1.wav,zen,1,high level,true
+wav-syllables/zen2.wav,zen,2,rising,true
+wav-syllables/zen3.wav,zen,3,low dipping (half),true
+wav-syllables/zen4.wav,zen,4,falling,true
+wav-syllables/zen5.wav,zen,5,neutral,true
+wav-syllables/zen6.wav,zen,6,neutral (high),true
+wav-syllables/zeng1.wav,zeng,1,high level,true
+wav-syllables/zeng2.wav,zeng,2,rising,true
+wav-syllables/zeng3.wav,zeng,3,low dipping (half),true
+wav-syllables/zeng4.wav,zeng,4,falling,true
+wav-syllables/zeng5.wav,zeng,5,neutral,true
+wav-syllables/zeng6.wav,zeng,6,neutral (high),true
+wav-syllables/zha1.wav,zha,1,high level,true
+wav-syllables/zha2.wav,zha,2,rising,true
+wav-syllables/zha3.wav,zha,3,low dipping (half),true
+wav-syllables/zha4.wav,zha,4,falling,true
+wav-syllables/zha5.wav,zha,5,neutral,true
+wav-syllables/zha6.wav,zha,6,neutral (high),true
+wav-syllables/zhai1.wav,zhai,1,high level,true
+wav-syllables/zhai2.wav,zhai,2,rising,true
+wav-syllables/zhai3.wav,zhai,3,low dipping (half),true
+wav-syllables/zhai4.wav,zhai,4,falling,true
+wav-syllables/zhai5.wav,zhai,5,neutral,true
+wav-syllables/zhai6.wav,zhai,6,neutral (high),true
+wav-syllables/zhan1.wav,zhan,1,high level,true
+wav-syllables/zhan2.wav,zhan,2,rising,true
+wav-syllables/zhan3.wav,zhan,3,low dipping (half),true
+wav-syllables/zhan4.wav,zhan,4,falling,true
+wav-syllables/zhan5.wav,zhan,5,neutral,true
+wav-syllables/zhan6.wav,zhan,6,neutral (high),true
+wav-syllables/zhang1.wav,zhang,1,high level,true
+wav-syllables/zhang2.wav,zhang,2,rising,true
+wav-syllables/zhang3.wav,zhang,3,low dipping (half),true
+wav-syllables/zhang4.wav,zhang,4,falling,true
+wav-syllables/zhang5.wav,zhang,5,neutral,true
+wav-syllables/zhang6.wav,zhang,6,neutral (high),true
+wav-syllables/zhao1.wav,zhao,1,high level,true
+wav-syllables/zhao2.wav,zhao,2,rising,true
+wav-syllables/zhao3.wav,zhao,3,low dipping (half),true
+wav-syllables/zhao4.wav,zhao,4,falling,true
+wav-syllables/zhao5.wav,zhao,5,neutral,true
+wav-syllables/zhao6.wav,zhao,6,neutral (high),true
+wav-syllables/zhe1.wav,zhe,1,high level,true
+wav-syllables/zhe2.wav,zhe,2,rising,true
+wav-syllables/zhe3.wav,zhe,3,low dipping (half),true
+wav-syllables/zhe4.wav,zhe,4,falling,true
+wav-syllables/zhe5.wav,zhe,5,neutral,true
+wav-syllables/zhe6.wav,zhe,6,neutral (high),true
+wav-syllables/zhei1.wav,zhei,1,high level,true
+wav-syllables/zhei2.wav,zhei,2,rising,true
+wav-syllables/zhei3.wav,zhei,3,low dipping (half),true
+wav-syllables/zhei4.wav,zhei,4,falling,true
+wav-syllables/zhei5.wav,zhei,5,neutral,true
+wav-syllables/zhei6.wav,zhei,6,neutral (high),true
+wav-syllables/zhen1.wav,zhen,1,high level,true
+wav-syllables/zhen2.wav,zhen,2,rising,true
+wav-syllables/zhen3.wav,zhen,3,low dipping (half),true
+wav-syllables/zhen4.wav,zhen,4,falling,true
+wav-syllables/zhen5.wav,zhen,5,neutral,true
+wav-syllables/zhen6.wav,zhen,6,neutral (high),true
+wav-syllables/zheng1.wav,zheng,1,high level,true
+wav-syllables/zheng2.wav,zheng,2,rising,true
+wav-syllables/zheng3.wav,zheng,3,low dipping (half),true
+wav-syllables/zheng4.wav,zheng,4,falling,true
+wav-syllables/zheng5.wav,zheng,5,neutral,true
+wav-syllables/zheng6.wav,zheng,6,neutral (high),true
+wav-syllables/zhi1.wav,zhi,1,high level,true
+wav-syllables/zhi2.wav,zhi,2,rising,true
+wav-syllables/zhi3.wav,zhi,3,low dipping (half),true
+wav-syllables/zhi4.wav,zhi,4,falling,true
+wav-syllables/zhi5.wav,zhi,5,neutral,true
+wav-syllables/zhi6.wav,zhi,6,neutral (high),true
+wav-syllables/zhong1.wav,zhong,1,high level,true
+wav-syllables/zhong2.wav,zhong,2,rising,true
+wav-syllables/zhong3.wav,zhong,3,low dipping (half),true
+wav-syllables/zhong4.wav,zhong,4,falling,true
+wav-syllables/zhong5.wav,zhong,5,neutral,true
+wav-syllables/zhong6.wav,zhong,6,neutral (high),true
+wav-syllables/zhou1.wav,zhou,1,high level,true
+wav-syllables/zhou2.wav,zhou,2,rising,true
+wav-syllables/zhou3.wav,zhou,3,low dipping (half),true
+wav-syllables/zhou4.wav,zhou,4,falling,true
+wav-syllables/zhou5.wav,zhou,5,neutral,true
+wav-syllables/zhou6.wav,zhou,6,neutral (high),true
+wav-syllables/zhu1.wav,zhu,1,high level,true
+wav-syllables/zhu2.wav,zhu,2,rising,true
+wav-syllables/zhu3.wav,zhu,3,low dipping (half),true
+wav-syllables/zhu4.wav,zhu,4,falling,true
+wav-syllables/zhu5.wav,zhu,5,neutral,true
+wav-syllables/zhu6.wav,zhu,6,neutral (high),true
+wav-syllables/zhua1.wav,zhua,1,high level,true
+wav-syllables/zhua2.wav,zhua,2,rising,true
+wav-syllables/zhua3.wav,zhua,3,low dipping (half),true
+wav-syllables/zhua4.wav,zhua,4,falling,true
+wav-syllables/zhua5.wav,zhua,5,neutral,true
+wav-syllables/zhua6.wav,zhua,6,neutral (high),true
+wav-syllables/zhuai1.wav,zhuai,1,high level,true
+wav-syllables/zhuai2.wav,zhuai,2,rising,true
+wav-syllables/zhuai3.wav,zhuai,3,low dipping (half),true
+wav-syllables/zhuai4.wav,zhuai,4,falling,true
+wav-syllables/zhuai5.wav,zhuai,5,neutral,true
+wav-syllables/zhuai6.wav,zhuai,6,neutral (high),true
+wav-syllables/zhuan1.wav,zhuan,1,high level,true
+wav-syllables/zhuan2.wav,zhuan,2,rising,true
+wav-syllables/zhuan3.wav,zhuan,3,low dipping (half),true
+wav-syllables/zhuan4.wav,zhuan,4,falling,true
+wav-syllables/zhuan5.wav,zhuan,5,neutral,true
+wav-syllables/zhuan6.wav,zhuan,6,neutral (high),true
+wav-syllables/zhuang1.wav,zhuang,1,high level,true
+wav-syllables/zhuang2.wav,zhuang,2,rising,true
+wav-syllables/zhuang3.wav,zhuang,3,low dipping (half),true
+wav-syllables/zhuang4.wav,zhuang,4,falling,true
+wav-syllables/zhuang5.wav,zhuang,5,neutral,true
+wav-syllables/zhuang6.wav,zhuang,6,neutral (high),true
+wav-syllables/zhui1.wav,zhui,1,high level,true
+wav-syllables/zhui2.wav,zhui,2,rising,true
+wav-syllables/zhui3.wav,zhui,3,low dipping (half),true
+wav-syllables/zhui4.wav,zhui,4,falling,true
+wav-syllables/zhui5.wav,zhui,5,neutral,true
+wav-syllables/zhui6.wav,zhui,6,neutral (high),true
+wav-syllables/zhun1.wav,zhun,1,high level,true
+wav-syllables/zhun2.wav,zhun,2,rising,true
+wav-syllables/zhun3.wav,zhun,3,low dipping (half),true
+wav-syllables/zhun4.wav,zhun,4,falling,true
+wav-syllables/zhun5.wav,zhun,5,neutral,true
+wav-syllables/zhun6.wav,zhun,6,neutral (high),true
+wav-syllables/zhuo1.wav,zhuo,1,high level,true
+wav-syllables/zhuo2.wav,zhuo,2,rising,true
+wav-syllables/zhuo3.wav,zhuo,3,low dipping (half),true
+wav-syllables/zhuo4.wav,zhuo,4,falling,true
+wav-syllables/zhuo5.wav,zhuo,5,neutral,true
+wav-syllables/zhuo6.wav,zhuo,6,neutral (high),true
+wav-syllables/zi1.wav,zi,1,high level,true
+wav-syllables/zi2.wav,zi,2,rising,true
+wav-syllables/zi3.wav,zi,3,low dipping (half),true
+wav-syllables/zi4.wav,zi,4,falling,true
+wav-syllables/zi5.wav,zi,5,neutral,true
+wav-syllables/zi6.wav,zi,6,neutral (high),true
+wav-syllables/zong1.wav,zong,1,high level,true
+wav-syllables/zong2.wav,zong,2,rising,true
+wav-syllables/zong3.wav,zong,3,low dipping (half),true
+wav-syllables/zong4.wav,zong,4,falling,true
+wav-syllables/zong5.wav,zong,5,neutral,true
+wav-syllables/zong6.wav,zong,6,neutral (high),true
+wav-syllables/zou1.wav,zou,1,high level,true
+wav-syllables/zou2.wav,zou,2,rising,true
+wav-syllables/zou3.wav,zou,3,low dipping (half),true
+wav-syllables/zou4.wav,zou,4,falling,true
+wav-syllables/zou5.wav,zou,5,neutral,true
+wav-syllables/zou6.wav,zou,6,neutral (high),true
+wav-syllables/zu1.wav,zu,1,high level,true
+wav-syllables/zu2.wav,zu,2,rising,true
+wav-syllables/zu3.wav,zu,3,low dipping (half),true
+wav-syllables/zu4.wav,zu,4,falling,true
+wav-syllables/zu5.wav,zu,5,neutral,true
+wav-syllables/zu6.wav,zu,6,neutral (high),true
+wav-syllables/zuan1.wav,zuan,1,high level,true
+wav-syllables/zuan2.wav,zuan,2,rising,true
+wav-syllables/zuan3.wav,zuan,3,low dipping (half),true
+wav-syllables/zuan4.wav,zuan,4,falling,true
+wav-syllables/zuan5.wav,zuan,5,neutral,true
+wav-syllables/zuan6.wav,zuan,6,neutral (high),true
+wav-syllables/zui1.wav,zui,1,high level,true
+wav-syllables/zui2.wav,zui,2,rising,true
+wav-syllables/zui3.wav,zui,3,low dipping (half),true
+wav-syllables/zui4.wav,zui,4,falling,true
+wav-syllables/zui5.wav,zui,5,neutral,true
+wav-syllables/zui6.wav,zui,6,neutral (high),true
+wav-syllables/zun1.wav,zun,1,high level,true
+wav-syllables/zun2.wav,zun,2,rising,true
+wav-syllables/zun3.wav,zun,3,low dipping (half),true
+wav-syllables/zun4.wav,zun,4,falling,true
+wav-syllables/zun5.wav,zun,5,neutral,true
+wav-syllables/zun6.wav,zun,6,neutral (high),true
+wav-syllables/zuo1.wav,zuo,1,high level,true
+wav-syllables/zuo2.wav,zuo,2,rising,true
+wav-syllables/zuo3.wav,zuo,3,low dipping (half),true
+wav-syllables/zuo4.wav,zuo,4,falling,true
+wav-syllables/zuo5.wav,zuo,5,neutral,true
+wav-syllables/zuo6.wav,zuo,6,neutral (high),true
